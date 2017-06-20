@@ -1,0 +1,376 @@
+/**********************************************************/
+
+== CHANGE LOG == 
+
+= Version 2.1.3 = = 19/06/2017
+* Fix - Fixed onepage menu issue
+
+= Version 2.1.2 = = 14/06/2017
+* Add - Customise > Restore Defaults
+
+= Version 2.1.1 = = 05/06/2017
+* Fix - Fixed less issue
+
+= Version 2.1.0 = = 09/05/2017
+* Fix - Fixed Magee Shortcodes animation issue
+* Fix - Fixed https issue
+* Add - Added "Stop Time" option for YouTube Video Background Options
+
+= Version 2.0.9 = = 06/04/2017
+* Fix - Fixed "Tracking" options issue
+
+= Version 2.0.8 = = 27/03/2017
+* Fix - Fixed contact form issue
+
+= Version 2.0.7 = = 23/03/2017
+* Fix - Fixed Hide Section option issue
+
+= Version 2.0.6 = = 22/03/2017
+* Remove - Removed Slideshow -> Full Height option on mobile devices.
+* Improved banner performance
+* Compatible with Mageewp Page Layout
+* Moved theme options to customise 
+
+= Version 2.0.5 = = 22/02/2017
+* Fix - Fixed responsive issue of section 1       
+* Fix - Fixed overlay logo issue
+* Fix - Fixed menu issue in section 1 on mobile devices
+* Fix - Fixed slider issue for rtl
+* Compatible with plugin "Clef Two-Factor Authentication"
+
+= Version 2.0.4 = = 03/02/2017
+* Fix - Fixed child theme 'Save Options' issue
+
+= Version 2.0.3 = = 19/01/2017
+* Add - Added subtitle typography for home page section
+* Remove - Removed 'font color' option of home page section
+* Fix - Fixed "Parallax Scrolling Background Image" option issue on IOS
+* Fix - Fixed related post issue on mobile devices
+
+= Version 2.0.2 = = 03/01/2017
+* Fix - Fixed 'Save Options' issue
+
+= Version 2.0.1 = = 19/12/2016
+* Add - Added style( Normal/Carousel ) option for section team 
+* Add - Added style( Normal/Carousel ) option for section testimonial
+* Fix - Fixed team & testimonial columns issue
+
+= Version 2.0.0 = = 16/12/2016
+* Add - Added vimeo video background 
+* Add - Added side navigation for home page
+* Fix - Fixed animation issue of home page
+* Fix - Fixed 'No Video Background' issue
+* Fix - Fixed 'Enable Sticky Header on Mobiles' option issue
+* Fix - Fixed social icons center issue of home page section one
+* Improved performance on mobile devices
+
+= Version 1.9.5 = 12/12/2016
+* Fix - Fixed animation issue on mobile devices
+
+= Version 1.9.4 = 09/12/2016
+* Fix - Fixed home page animation issue
+
+= Version 1.9.3 = 25/11/2016
+* Add - Added button options for home page slider
+* Add - Added background image for background video loading
+* Add - Added "Copyright Info" option
+* Changed the default youtube video ID
+* Fix - Fixed translation issues
+* Fix - Fixed default value issue of "Upload Overlay Header Logo" option
+
+
+= Version 1.9.2 = 09/11/2016
+* Add - Added 'autoplay' option for slider
+* Add - Added 'Display Control' option for slider
+* Add - Added 'Full Height' option for slider
+* Add - Added 'Icon Color' option for service section of home page
+* Add - Added 'Counter' options for custom section of home page
+* Add - Added 'Main Menu Font Color of Overlay Header ( First Level )' option
+* Fix - Fixed 'Menu Background Color' option issue on mobile
+* Fix - Fixed 'Footer Text Color' option issue
+* Fix - Fixed footer info issue on mobile
+* Fix - Fixed admin bar issue on mobile
+* Improved home page slider performance
+* Improved gallery performance
+* Improved main menu performance
+
+= Version 1.9.1 = 27/10/2016
+* Add - Added top icon option for section banner
+* Optimized section banner typography option
+
+= Version 1.9.0 = 14/10/2016
+* Add - Added Options Backup function
+* Fix - Fixed Metabox Option Padding Bottom issue
+
+= Version 1.8.9 = = 30/09/2016
+* Add - Added 'Display Author Info' option
+* Add - Added 'Display Related Posts' option
+* Fix - Fixed 'Home Page Header Overlay' option issue
+* Changed the default youtube video ID
+
+= Version 1.8.8 = = 23/09/2016
+* Add - Added 'Full Width Header' option
+* Add - Added 'Nav Hover Effect' option
+* Fix - Fixed admin bar issue
+* Fix - Fixed 'Slide Speed' option issue
+* Remove - Removed styling - element colors - footer widget divider color
+
+= Version 1.8.7 = = 09/09/2016
+* Fix - Fixed home page Hide Section issue
+* Remove - Removed 'Import Onetone Demos'
+
+= Version 1.8.6 = = 25/08/2016
+* Fix - Fixed home page section menu slug issue
+* Add - Added Template: Front Page
+
+= Version 1.8.5 = = 29/07/2016
+* Add - Added footer sns
+* Add - Added Gallery Section lightbox
+* Fix - Fixed Custom CSS backslash issue
+* Fix - Fixed logo issue
+
+= Version 1.8.4 = = 20/07/2016
+* Add - Added Footer Widgets Area Options
+
+= Version 1.8.3 = 
+* Add - Added YouTube Video Background - Mute option
+* Add - Added YouTube Video Background - AutoPlay option
+* Add - Added YouTube Video Background - Loop option
+* Add - Added YouTube Video Background - Background Type option
+* Fix - Fixed Header Text Color options issue
+* Fix - Fixed home page menu issue
+
+= Version 1.8.2 = 23/06/2016
+* Add - Added YouTube Video Background - Start Time option
+
+= Version 1.8.1 = 
+* Fix - home page section 15 display issue
+* Fix - Fixed home page slider issue
+* Added Logo Position option
+
+= Version 1.8.0 = 01/06/2016
+* Fix - home page service section optimization
+
+= Version 1.7.9 = 26/05/2016
+* Fix - Fixed Main Menu Colors options issue
+
+= Version 1.7.7 = 23/05/2016
+* Fix - Fixed home page slider
+
+= Version 1.7.6 = 23/05/2016
+* Fix - Fixed service section image icon issue
+* Fix - Fixed home page slider single slide issue
+* Support polylang plugin for home page
+
+= Version 1.7.5  = 16/05/2016
+*  Fix - Header Overlay option inssue
+
+= Version 1.7.4  = 16/05/2016
+* Feature - Added Home Page Header Overlay option
+
+= Version 1.7.3  = 13/05/2016
+* Fix - Fixed some issues
+
+= Version 1.7.2  = 10/05/2016
+* Feature - Compatible with onetone child theme
+* Fix - Fixed menu color issue on mobile device
+* Fix - Fixed Typography option issues for home page banner section
+
+= Version 1.7.1  = 05/05/2016
+* Fix - Fixed bootstrap & font-awesome loaded twice issue
+* Fix - Fixed animation issue of 'about us' section
+* Updated Font Awesome
+
+= Version 1.7.0  = 04/05/2016
+* Fix - Fixed home page slider do shortcode issue
+* Fix - Fixed home page 'No video background' audio issue
+
+= Version 1.6.9  = 04/05/2016
+* Fix - Fixed home page video section fullheight issue
+
+= Version 1.6.8  = 22/04/2016
+* Fix - Fixed theme option upload image issue
+
+= Version 1.6.7  = 13/04/2016
+* Change screenshot
+
+= Version 1.6.6  = 13/04/2016
+* Added fixed section content options for homepage 
+
+= Version 1.6.5  = 07/03/2016
+* Fix - Fixed 'Display Header Text' issue
+
+= Version 1.6.4  = 01/03/2016
+* Fix - Fixed translation issue
+* Fix - Fixed 'padding bottom' issue of page option
+
+= Version 1.6.3 =  
+* Fixed home page video background issue
+
+= Version 1.6.2 =  
+* Fixed theme options can't be saved issue
+
+= Version 1.6.1 =  
+* Fixed 'Links Color' option issue 
+* Removed Favicon option
+* Theme options panel optimization
+
+= Version 1.5.9 =
+* Display default header menu
+
+= Version 1.5.8 =
+* Fixed slider issue
+* Fixed theme options panel issue
+
+= Version 1.5.7 =
+* Fixed menu scrolling issue 
+* Fixed retina logo issue
+* Compatible with WPML plugin
+
+= Version 1.5.6 =
+* Fixed duplicate title issue
+
+= Version 1.5.5 =
+* Fixed customize 'Header Image' option issue
+* Fixed customize 'Display Header Text' option issue
+
+= Version 1.5.4 =
+* Added Section Title Typography theme option
+* Added Section Content Typography theme option
+* Modified default sections content
+
+= Version 1.5.3 =
+* Fixed scheme.less issue
+* Added Tracking Code options
+* Enable support for Post Formats 
+
+= Version 1.5.2 =
+* Added Bootstrap Framework
+* Retina Ready
+* bbPress Support
+* New Post/Page Layout
+* Added Sidebar Options
+* Added Header/Footer Options
+* Added Site Styling
+
+= Version 1.5.1 =
+* Improve performance
+
+= Version 1.5.0 =
+* Fixed duplicated title issue
+
+= Version 1.4.9 =
+* Added 404 page
+
+= Version 1.4.8 =
+* Added 'Delete section' function
+
+= Version 1.4.7 =
+* Fixed sidebar issue
+
+= Version 1.4.6 =
+* Added theme support: title-tag
+
+= Version 1.4.5 =
+* Added home page footer widgets area
+
+= Version 1.4.4 =
+* Updated Font Awesome to version 4.3.0
+* Added clients home page section
+
+= Version 1.4.3 =
+* Added rtl CSS style
+* CSS style optimization
+
+= Version 1.4.2 =
+* Fixed homepage slider height issue
+* Gallery style optimization
+* Fixed contact form return message issue
+
+= Version 1.4.1 =
+* Fixed Primary Menu window resize hide issue
+
+= Version 1.4.0 =
+* Provide original js files
+* Set the default home page content
+
+= Version 1.3.9 =
+* Fixed home page embed video issue
+* Fixed home page menu issue when trade content to Slider in section 1 conten
+
+= Version 1.3.8 =
+* Fixed child theme home page sections disappear issue
+* Added Parallax Scrolling Background Image
+
+= Version 1.3.6 =
+* Fixed menu issue displayed on the mobile
+
+= Version 1.3.5 =
+* Update Options Framework
+* Update Font Awesome
+* Video background optimization
+
+= Version 1.3.4 =
+* Internationalize the text in onetone_options_panel_sidebar()
+
+= Version 1.3.3 =
+* Fixed IE responsive issue
+* Added "Back to Top" button
+* Homepage nav menu current item color
+* Added links color option
+
+= Version 1.3.1 =
+* Homepage slider optimization
+
+= Version 1.2.9 =
+* Smooth scrolling optimization
+* Video Control buttons on/off
+
+= Version 1.2.8 =
+* Smooth scrolling optimization
+* Added home page top slider
+* Added viedo background position option
+
+= Version 1.2.5 =
+* Fixed favicon issue
+* Remove all sentence under the ¡°read more¡± on Category page
+
+= Version 1.2.4 =
+* Fixed 'Fatal error: Cannot redeclare class Mobile_Detect' issue
+
+= Version 1.2.3 =
+* Fixed header menu color issue.
+* Display background color or background image on tablet/mobile devices instead of background video.
+
+= Version 1.2.2 =
+* Default video audio setting to on.
+* Added Header Text Color setting
+* Fixed spelling error
+* Fixed IE issue
+
+= Version 1.1.9 =
+* Fixed child theme issue.
+
+= Version 1.1.8 =
+* Added header menu nav font color option.
+
+= Version 1.1.5 = 
+* Added background video controls(Play | Pause | Volume Up | Volume Down | Mute).
+* Added one page home menu slug.
+
+= Version 1.1.4 = 
+* Fixed layout issue
+
+= Version 1.1.3 = 
+* Added Font Awesome icons
+* Section content shortcode support
+* Fixed some style issue
+
+= Version 1.1.2 = 
+* Video background, Contact form optimization, Clear form after submitting successfully.
+
+= Version 1.1.1 = 
+* Fixed video background issue
+
+= Version 1.1.0 = 
+* Added home section video background

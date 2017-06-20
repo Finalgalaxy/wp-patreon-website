@@ -1,0 +1,67 @@
+/*
+Theme Name: AC Child
+Theme URI: http: //example.com/test/
+Description: Tema Child di Twenty Eleven
+Author: Il tuo nome e cognome
+Author URI: http://example.com/
+Template: alpha-centauri
+Version: 1.0.0
+Tags: tag che possono essere applicati al tuo tema separati da virgola
+Text Domain: alpha-centauri-child
+*/
+
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+@media only screen 
+and (min-width : 900px) {
+	.site-main{
+		width: 60%;
+    	}
+}
+
+.content-area{
+	background-color: rgba(0,0,0,0.4);
+	color: white;
+  	padding-left: 20px;
+  	padding-right: 20px;
+}
+
+ul.menu{
+	text-align: center;
+	width: 100%;
+	margin: 0 auto;
+}
+
+ul.menu li{
+	display: inline-block;
+	text-align: center;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.content-area input, a, a.comment-reply-link, a.author-link, a:active, a:visited { color: white; }
+
+.content-area .site-main{
+	text-align: center;
+	margin: 0 auto;
+	width: 100%;
+}
+
+.entry-content{
+	text-align: center;
+	width: 100%;
+	margin: 0 auto;
+}
+
+a, .post-navigation span, .featured-more::after, .search-submit .genericon-search, .format-image .entry-title, .entry-title, .read-more-link {
+    -webkit-transition: color 0.2s;
+    transition: color 0.2s;
+}
+
+.site-title, .site-first-letter, .featured-header, .featured-excerpt, .featured-more, .single-header, .single-meta, .entry-title, .page-title, .cat-links, .post-navigation {
+    text-shadow: 0px 0px 1px #000;
+}

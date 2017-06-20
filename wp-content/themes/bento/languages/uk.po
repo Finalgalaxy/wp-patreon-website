@@ -1,0 +1,2788 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bento\n"
+"POT-Creation-Date: 2016-09-12 22:27+0800\n"
+"PO-Revision-Date: 2016-09-12 22:27+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "This page can&rsquo;t be found."
+msgstr "Вибачте, але цю сторінку не знайдено."
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found for this URL. You can try clicking the logo "
+"to return to the home page or searching using the form below"
+msgstr ""
+"Схоже, нічого не було знайдено для цього URL. Ви можете спробувати натиснути "
+"на логотип, щоб повернутися на головну сторінку або пошук, використовуючи "
+"форму нижче"
+
+#: comments.php:20
+msgctxt "comment section title"
+msgid "comment"
+msgid_plural "comments"
+msgstr[0] "коментар"
+msgstr[1] "коментаря"
+msgstr[2] "коментарів"
+
+#: comments.php:50 comments.php:55
+msgid "Name"
+msgstr "Ім'я"
+
+#: comments.php:63 comments.php:68
+msgid "Email"
+msgstr "Ваш Email"
+
+#: comments.php:76
+msgid "Submit Comment"
+msgstr "Опублікувати коментар"
+
+#: comments.php:83
+msgid "Comment"
+msgstr "Коментар"
+
+#: content-none.php:7
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Ви готові опублікувати свій перший запис? <a href=\"%1$s\">Почніть прямо "
+"зараз</a>."
+
+#: content-none.php:18
+msgid "Sorry, but nothing matched your search terms"
+msgstr "Вибачте, але нічого не відповідає вашим умовам пошуку"
+
+#: content-none.php:18
+msgid "Please try using different keywords"
+msgstr "Будьте ласкаві, спробуйте використати інші ключові слова"
+
+#: content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help"
+msgstr ""
+"Здається, ми не можемо знайти те, що ви шукаєте. Можливо, пошук зможе "
+"допомогти"
+
+#: functions.php:492 includes/template-tags.php:444
+msgid "Continue reading"
+msgstr "Продовжити читати"
+
+#: functions.php:755 includes/customizer/customizer.php:1510
+msgid "SEO Settings"
+msgstr "Налаштування SEO"
+
+#: functions.php:765 functions.php:785
+msgid "Meta title"
+msgstr "Мета-заголовок"
+
+#: functions.php:766
+msgid ""
+"Input the meta title - the text to be used by search engines as well as "
+"browser tabs (recommended max length - 60 symbols); the post title will be "
+"used by default if this field is empty."
+msgstr ""
+"Введіть мета-заголовок - текст, який використовується пошуковими системами і "
+"відображається у вкладках браузерів (рекомендована довжина - 60 символів); "
+"якщо це поле залишити порожнім, за умовчанням буде використаний заголовок "
+"запису."
+
+#: functions.php:773 functions.php:797
+msgid "Meta description"
+msgstr "Мета-опис"
+
+#: functions.php:774
+msgid ""
+"Input the meta description - the text to be used by search engines on search "
+"result pages (recommended max length - 160 symbols); the first part of the "
+"post body will be used by default is this field is left blank."
+msgstr ""
+"Введіть мета-опис - текст, який використовується пошуковими системами на "
+"сторінках пошукових видач (Рекомендована макс. довжина - 160 символів); якщо "
+"це поле залишити порожнім, початок тексту запису буде використано за "
+"замовчуванням."
+
+#: functions.php:786
+#, php-format
+msgid "Install the %s to set the meta title for individual posts and pages"
+msgstr ""
+
+#: functions.php:798
+#, php-format
+msgid ""
+"Install the %s to set the meta description for individual posts and pages"
+msgstr ""
+
+#: functions.php:814
+msgid "General Settings"
+msgstr "Загальні налаштування"
+
+#: functions.php:823
+msgid "Sidebar layout"
+msgstr "Розташування бічній панелі"
+
+#: functions.php:824
+msgid "Choose whether to display a sidebar and on which side of the content"
+msgstr "Виберіть, чи потрібно відображати бічну панель, і на якій стороні"
+
+#: functions.php:828
+msgid "Right Sidebar (default)"
+msgstr "Бічна панель праворуч (за замовчуванням)"
+
+#: functions.php:829
+msgid "Left Sidebar"
+msgstr "Бічна панель зліва"
+
+#: functions.php:830
+msgid "Full Width"
+msgstr "Повна ширина"
+
+#: functions.php:837
+msgid "Page background color"
+msgstr "Колір фону сторінки"
+
+#: functions.php:838
+msgid ""
+"Choose the background color for current page/post. This will override any "
+"settings in the Theme Options"
+msgstr ""
+"Виберіть колір фону для поточної сторінки/запису. Ця установка перекриє будь-"
+"які налаштування в налаштуваннях шаблону"
+
+#: functions.php:845
+msgid "Hide title"
+msgstr "Приховати заголовок"
+
+#: functions.php:846
+msgid "Check this option if you DO NOT want to display the title on the page"
+msgstr "Відзначте цю опцію, якщо НЕ ХОЧЕТЕ відображати заголовок на сторінці."
+
+#: functions.php:853
+msgid "Uppercase title"
+msgstr "Заголовок прописними буквами"
+
+#: functions.php:854
+msgid ""
+"Check this option if you want the page title to be entirely in uppercase "
+"(useful for landing pages)."
+msgstr ""
+"Відзначте цю опцію, якщо ви хочете, щоб заголовок сторінки був повністю в "
+"верхньому регістрі (корисно для цільових сторінок)."
+
+#: functions.php:861
+msgid "Title position"
+msgstr "Позиція заголовка"
+
+#: functions.php:862
+msgid "Choose the position of the title; default is left-aligned."
+msgstr ""
+"Виберіть положення заголовка; значення за замовчуванням - по лівому краю."
+
+#: functions.php:866
+msgid "Left-aligned (default)"
+msgstr "Зліва (за замовчуванням)"
+
+#: functions.php:867
+msgid "Centered"
+msgstr "По центру"
+
+#: functions.php:874
+msgid "Title color"
+msgstr "Колір заголовка"
+
+#: functions.php:875
+msgid ""
+"Choose the text color for the title of this post. This will override any "
+"settings in the Theme Options"
+msgstr "Виберіть колір заголовка для цього запису."
+
+#: functions.php:882
+msgid "Subtitle"
+msgstr "Підзаголовок"
+
+#: functions.php:883
+msgid "Input the subtitle for the page."
+msgstr "Введіть підзаголовок для сторінки."
+
+#: functions.php:890
+msgid "Subtitle color"
+msgstr "Колір підзаголовка"
+
+#: functions.php:891
+msgid ""
+"Choose the text color for the subtitle of this page; default is #999999 "
+"(light grey)."
+msgstr ""
+"Виберіть колір тексту для підзаголовка цієї сторінки; значення за "
+"замовчуванням — #999999 (світло-сірий)."
+
+#: functions.php:902
+msgid "Page Header Settings"
+msgstr "Налаштування шапки сторінки"
+
+#: functions.php:911
+msgid "Activate extended header"
+msgstr "Активувати розширену шапку"
+
+#: functions.php:912
+msgid ""
+"Check this box to enable extended header options such as header image and "
+"call-to-action-buttons."
+msgstr ""
+"Встановіть цю опцію, щоб включити розширені параметри шапки, такі як фонове "
+"зображення і цільові кнопки."
+
+#: functions.php:919
+msgid "Header height"
+msgstr "Висота шапки"
+
+#: functions.php:920
+msgid ""
+"Choose the title top and bottom padding, which will affect the header "
+"height; default is 10%"
+msgstr ""
+"Виберіть верхній і нижній відступи для заголовка; це вплине на висоту шапки; "
+"значення за замовчуванням - 10%"
+
+#: functions.php:924 functions.php:967 functions.php:1232
+msgid "Choose value"
+msgstr "Виберіть значення"
+
+#: functions.php:926
+msgid "10% (default)"
+msgstr "10% (за замовчуванням)"
+
+#: functions.php:936
+msgid "Header image"
+msgstr "Зображення фону шапки"
+
+#: functions.php:937
+msgid ""
+"Upload the image to serve as the header; recommended size is 1400x300 pixels "
+"and above, yet mind the file size - excessively large images may worsen user "
+"experience"
+msgstr ""
+"Закачайте зображення для використання в шапці сторінки; рекомендований "
+"розмір - 1400х300 пікселів і більше, однак звертайте увагу на розмір файлу - "
+"великі зображення можуть погіршити швидкість завантаження сторінки"
+
+#: functions.php:945
+msgid "Header video"
+msgstr "Відео-фон шапки"
+
+#: functions.php:946
+msgid ""
+"Upload the video file to be used as header background; if this is active, "
+"the header image will serve as a placeholder for mobile devices; .mp4 files "
+"are recommended, but you can also use .ogv and .webm formats. Please mind "
+"the file size - excessively large images may worsen user experience"
+msgstr ""
+"Закачайте відеофайл для використання в шапці сторінки; в цьому випадку "
+"зображення шапки (див. опцію вище) буде використано замість відео на "
+"мобільних пристроях; рекомендований формат - mp4, проте Ви також можете "
+"використовувати .ogv і .webm формати. Звертайте увагу на розмір файлу - "
+"великі відео можуть погіршити швидкість завантаження сторінки"
+
+#: functions.php:954
+msgid "Header image overlay color"
+msgstr "Колір напівпрозорого фону над зображенням шапки"
+
+#: functions.php:955
+msgid ""
+"Choose the color for the image overlay, designed to make the title text "
+"stand out more clearly"
+msgstr ""
+"Виберіть колір фону над зображенням, використовуваного для кращої "
+"читабельності тексту заголовка"
+
+#: functions.php:962
+msgid "Header image overlay opacity"
+msgstr "Ступінь прозорості напівпрозорого фону над зображенням шапки"
+
+#: functions.php:963
+msgid ""
+"Choose the opacity level for the image overlay; 0.0 is fully transparent, "
+"1.0 is fully opaque, default is 0.3"
+msgstr ""
+"Виберіть ступінь прозорості фону шапки; 0.0 відповідає повністю прозорому, "
+"1.0 - повністю непрозорому, значення за замовчуванням - 0.3"
+
+#: functions.php:971
+msgid "0.3 (default)"
+msgstr "0.3 (за замовчуванням)"
+
+#: functions.php:985
+msgid "Transparent website header"
+msgstr "Зробити шапку сайту (логотип і меню) прозорою на цій сторінці"
+
+#: functions.php:986
+msgid ""
+"Check this option to make the website header (the top area with the menu and "
+"the logo) look like a transparent overlay on top of the header image on this "
+"page."
+msgstr ""
+"Відзначте цю опцію, щоб зробити шапку сайту (верхня область з меню і "
+"логотипом) прозорою"
+
+#: functions.php:993
+msgid "Website menu color on this page"
+msgstr "Колір текстів в меню на цій сторінці"
+
+#: functions.php:994
+msgid ""
+"Choose the color for the website menu on this page (useful for the "
+"transparent header)."
+msgstr ""
+"Виберіть колір текстів в меню сайту на цій сторінці (корисно для прозорої "
+"шапки)."
+
+#: functions.php:1001
+msgid "Website menu mouse-hover color on this page"
+msgstr "Колір текстів в меню на цій сторінці при наведенні миші"
+
+#: functions.php:1002
+msgid ""
+"Choose the mouse-over color for the website menu on this page (useful for "
+"the transparent header)."
+msgstr ""
+"Виберіть колір текстів в меню сайту на цій сторінці при наведенні миші "
+"(корисно для прозорої шапки)."
+
+#: functions.php:1009
+msgid "Call-to-action button text"
+msgstr "Текст кнопки спонукання до дії"
+
+#: functions.php:1010
+msgid "Input the text for an optional call-to-action button."
+msgstr "Введіть текст для кнопки спонукання до дії"
+
+#: functions.php:1017
+msgid "Call-to-action button link"
+msgstr "Посилання кнопки спонукання до дії"
+
+#: functions.php:1018
+msgid ""
+"Paste the URL link to point the call-to-action button to; leave this blank "
+"to scroll the page below the header on button click."
+msgstr ""
+"Вставити посилання для кнопки спонукання до дії; залиште це поле порожнім, "
+"щоб прокрутити сторінку нижче заголовка при натисканні на кнопку."
+
+#: functions.php:1025
+msgid "Call-to-action button background color"
+msgstr "Колір фону кнопки спонукання до дії"
+
+#: functions.php:1026
+msgid ""
+"Choose the background color for the call-to-action buttons; default is "
+"#00b285 (green-blue)."
+msgstr ""
+"Виберіть колір фону для кнопки спонукання до дії; за замовчуванням #00b285 "
+"(зелено-синій)."
+
+#: functions.php:1034
+msgid "Call-to-action button mouse-over background color"
+msgstr "Колір фону кнопки спонукання до дії при наведенні миші"
+
+#: functions.php:1035
+msgid ""
+"Choose the text color for the call-to-action buttons on hover; default is "
+"#00906c (dark-green)."
+msgstr ""
+"Виберіть колір тексту для кнопки спонукання до дії при наведенні миші; за "
+"замовчуванням #00906c (темно-зелений)."
+
+#: functions.php:1043
+msgid "Call-to-action button text color"
+msgstr "Колір тексту кнопки спонукання до дії"
+
+#: functions.php:1044
+msgid ""
+"Choose the text color for the primary call-to-action button; default is "
+"#ffffff (white)."
+msgstr ""
+"Виберіть колір тексту для головної кнопки спонукання до дії; за "
+"замовчуванням #ffffff (білий)."
+
+#: functions.php:1052
+msgid "Secondary call-to-action button text"
+msgstr "Текст вторинної кнопки спонукання до дії"
+
+#: functions.php:1053
+msgid "Input the text for an optional secondary call-to-action button."
+msgstr "Введіть текст для вторинної кнопки спонукання до дії."
+
+#: functions.php:1060
+msgid "Secondary call-to-action button link"
+msgstr "Посилання для вторинної кнопки спонукання до дії"
+
+#: functions.php:1061
+msgid ""
+"Paste the URL link to point the secondary call-to-action button to; leave "
+"this blank to scroll the page below the header on button click."
+msgstr ""
+"Вставити посилання для вторинної кнопки спонукання до дії (відображається "
+"праворуч від основної); залиште це поле порожнім, щоб прокрутити сторінку "
+"нижче заголовка при натисканні на кнопку."
+
+#: functions.php:1068
+msgid "Secondary call-to-action button color"
+msgstr "Колір тексту вторинної кнопки спонукання до дії"
+
+#: functions.php:1069
+msgid ""
+"Choose the text and border color for the secondary call-to-action button; "
+"default is #00b285 (green-blue) or the same as the primary button."
+msgstr ""
+"Виберіть колір тексту і межі для вторинної кнопки спонукання до дії; "
+"значення за замовчуванням - #00b285 (зелено-синій)."
+
+#: functions.php:1076
+msgid "Secondary call-to-action button mouse-over color"
+msgstr "Колір вторинної кнопки спонукання до дії при наведенні миші"
+
+#: functions.php:1077
+msgid ""
+"Choose the text and border color for the secondary call-to-action button on "
+"hover; default is #00906c (dark-green) or the same as the primary button."
+msgstr ""
+"Виберіть колір тексту і межі для вторинної кнопки спонукання до дії при "
+"наведенні миші; значення за замовчуванням - #00906с (темно зелений)."
+
+#: functions.php:1088
+msgid "Map Header"
+msgstr "Мапа в шапці сторінки"
+
+#: functions.php:1097
+msgid "Activate Google Maps header"
+msgstr "Активувати мапу Google Maps в шапці сторінки"
+
+#: functions.php:1098
+msgid ""
+"Check this box to enable Google Maps header; note that this will deactivate "
+"the extended header image/video."
+msgstr ""
+"Встановіть цю опцію для включення фону шапки сторінки у вигляді Google Maps; "
+"зверніть увагу, що ця опція відключає розширену опцію шапки у вигляді "
+"зображення/відео."
+
+#: functions.php:1104
+#, php-format
+msgid ""
+"Input the API key for this instance of Maps - you can find detailed "
+"instructions on generating your API key <a href=\"%s\" target=\"_blank"
+"\">here</a>."
+msgstr ""
+"Введіть Ваш особистий API-ключ для Google Maps - детальні інструкції по "
+"отриманню безкоштовного API-ключа можна отримати <a href=\"%s\" target="
+"\"_blank\">тут</a>."
+
+#: functions.php:1107
+msgid "Google Maps API key"
+msgstr "API-ключ для Google Maps"
+
+#: functions.php:1115
+msgid "Map center location"
+msgstr "Точка центрування мапи"
+
+#: functions.php:1116
+msgid ""
+"Input the address (country, city, or exact address) of the location on which "
+"to center the map."
+msgstr ""
+"Введіть адресу (країну, місто чи точну адресу) місця, яке буде знаходитися "
+"по центру мапи."
+
+#: functions.php:1123
+msgid "Map height"
+msgstr "Висота мапи"
+
+#: functions.php:1124
+msgid "Select the height of the map, in pixels."
+msgstr "Виберіть висоту мапи в пікселях."
+
+#: functions.php:1131
+msgid "400 (default)"
+msgstr "400 (за замовчуванням)"
+
+#: functions.php:1141
+msgid "Map zoom level"
+msgstr "Масштаб мапи"
+
+#: functions.php:1142
+msgid ""
+"Choose the zoom level for the map, 1 being entire world and 20 being "
+"individual buildings."
+msgstr ""
+"Виберіть рівень масштабування для мапи, від 0 (весь світ) до 20 (окремі "
+"будівлі)."
+
+#: functions.php:1160
+msgid "15 (default)"
+msgstr "15 (за замовчуванням)"
+
+#: functions.php:1171
+#, php-format
+msgid ""
+"You can insert the code for custom map styling here; check <a href=\"%s\" "
+"target=\"_blank\">Snazzymaps.com</a> for ready-made snippets: when on the "
+"page of the particular style, click on the \"Copy\" button or simply select "
+"and copy the code under the \"Javascript Style Array\" heading."
+msgstr ""
+"Тут можна вставити код для персоналізації зовнішнього вигляду мапи, "
+"відвідайте <a href=\"%s\" target=\"_blank\">Snazzymaps.com</a> для готових "
+"фрагментів коду стилів: на сторінці конкретного стилю натисніть на кнопку "
+"«Копіювати» або просто виділіть і скопіюйте код під заголовком «Javascript "
+"Style Array»."
+
+#: functions.php:1174
+msgid "Map custom style"
+msgstr "Користувацький стиль мапи"
+
+#: functions.php:1186
+msgid ""
+"Masonry Tile Settings / Only for displaying on \"Grid\" page template with "
+"\"Masonry\" grid type"
+msgstr ""
+"Налаштування плитки цього запису для сіток / Тільки для сторінок з шаблоном "
+"«Сітка» з типом сітки «Кладка»"
+
+#: functions.php:1195
+msgid "Tile size"
+msgstr "Розмір плитки"
+
+#: functions.php:1196
+msgid ""
+"Choose the size of the tile relative to the default 1x1 tile (defined by the "
+"number of columns in the grid)"
+msgstr ""
+"Вибрати розмір плитки по відношенню до 1x1 (ширина визначається автоматично "
+"кількістю стовпців в сітці)"
+
+#: functions.php:1200
+msgid "1x1 (default)"
+msgstr "1x1 (за замовчуванням)"
+
+#: functions.php:1210
+msgid "Tile overlay color"
+msgstr "Колір накладеного фону плитки"
+
+#: functions.php:1211
+msgid ""
+"Choose the color for an overlay for the tile background image; default is "
+"#666666 (grey)"
+msgstr ""
+"Виберіть колір накладання для плитки, поверх фонового зображення; значення "
+"за замовчуванням - #666666 (сірий)"
+
+#: functions.php:1219
+msgid "Tile image"
+msgstr "Зображення плитки"
+
+#: functions.php:1220
+msgid ""
+"Upload the image to be used in the tile; if this field is empty, the "
+"featured image (thumbnail) will be used."
+msgstr ""
+"Завантажте зображення для використання в якості фону плитки; якщо залишити "
+"це поле порожнім, буде використовуватися мініатюра запису."
+
+#: functions.php:1227
+msgid "Tile overlay opacity"
+msgstr "Ступінь прозорості накладеного фону плитки"
+
+#: functions.php:1228
+msgid ""
+"Select the opacity level for an overlay for the tile background image, 0 is "
+"fully transparent (default is 0.6)"
+msgstr ""
+"Виберіть рівень прозорості для накладеного фону плитки, де 0 повністю "
+"прозорий, а 1 - повністю непрозорий (значення за замовчуванням - 0.6)"
+
+#: functions.php:1239
+msgid "0.6 (default)"
+msgstr "0.6 (за замовчуванням)"
+
+#: functions.php:1250
+msgid "Tile text color"
+msgstr "Колір тексту плитки"
+
+#: functions.php:1251
+msgid ""
+"Choose the color for the text inside the tile; default is #ffffff (white)"
+msgstr ""
+"Вибрати колір для тексту всередині плитки; значення за замовчуванням - "
+"#ffffff (білий)"
+
+#: functions.php:1259
+msgid "Tile text size"
+msgstr "Розмір тексту плитки"
+
+#: functions.php:1260
+msgid "Choose the text size for the tile; default is 16px"
+msgstr "Вибрати розмір тексту для плитки; значення за замовчуванням - 16px"
+
+#: functions.php:1267
+msgid "16 (default)"
+msgstr "16 (за замовчуванням)"
+
+#: functions.php:1281
+msgid "Grid Settings"
+msgstr "Налаштування сітки"
+
+#: functions.php:1290
+msgid "Grid mode"
+msgstr "Тип сітки"
+
+#: functions.php:1291
+msgid "Choose which grid type to use on this page"
+msgstr "Виберіть, який тип сітки буде використовуватися на цій сторінці"
+
+#: functions.php:1304
+msgid "Number of columns"
+msgstr "Кількість стовпців"
+
+#: functions.php:1305
+msgid ""
+"Select the number of columns in the grid or number of base tiles per line in "
+"masonry"
+msgstr "Виберіть необхідну кількість базових стовпців в сітці"
+
+#: functions.php:1311
+msgid "3 (default)"
+msgstr "3 (за замовчуванням)"
+
+#: functions.php:1322 functions.php:1331
+msgid "Content types"
+msgstr "Типи вмісту"
+
+#: functions.php:1332
+#, php-format
+msgid "Install the %s to use the \"project\" (portfolio) content type"
+msgstr "Встановіть %s щоб використовувати тип вмісту «проект» (портфоліо)"
+
+#: functions.php:1341
+msgid "Items per page"
+msgstr "Кількість елементів сітки на одній сторінці"
+
+#: functions.php:1342
+msgid ""
+"Input the number of items to display per page; default is the number set in "
+"\"Settings - Reading\" admin section"
+msgstr ""
+"Введіть кількість елементів, що відображаються на сторінці; за замовчуванням "
+"використовується номер в розділі «Параметри - Читання» в меню адміністратора"
+
+#: functions.php:1350
+msgid "Item margins"
+msgstr "Відступи елементів сітки."
+
+#: functions.php:1351
+msgid "Input the margin width in pixels (default is 10)"
+msgstr "Введіть ширину відступів в пікселях (за умовчанням - 10)"
+
+#: functions.php:1359
+msgid "Hide tile overlays"
+msgstr "Приховати заголовки і накладений фон на плитках"
+
+#: functions.php:1360
+msgid "Only display tile overlays in masonry on mouse hover"
+msgstr ""
+"Відображати внутрішні елементи плиток у вигляді сітки «кладка» тільки при "
+"наведенні миші"
+
+#: functions.php:1367
+msgid "Force full width"
+msgstr "Розтягнути сітку на всю ширину сторінки"
+
+#: functions.php:1368
+msgid ""
+"Check this option if you want the grid to stretch the entire width of the "
+"screen"
+msgstr ""
+"Встановіть цю опцію, якщо хочете щоб сітка завжди займала повну ширину "
+"сторінки"
+
+#: functions.php:1375
+msgid "Load items on same page"
+msgstr "Завантажувати нові записи на тій же сторінці"
+
+#: functions.php:1376
+msgid ""
+"Replace the standard pagination with a button which loads next items without "
+"refreshing the page"
+msgstr ""
+"Замінити стандартне розбиття на сторінки кнопкою, яка завантажує слідуючі "
+"записи без поновлення сторінки"
+
+#: functions.php:1480
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr "Пошук продуктів"
+
+#: functions.php:1480
+msgctxt "label"
+msgid "Search for:"
+msgstr "Шукати:"
+
+#: includes/customizer/customizer.php:53
+msgid "Get the Expansion Pack"
+msgstr "Отримати Expansion Pack"
+
+#: includes/customizer/customizer.php:54
+msgid "Rate the theme (thanks!)"
+msgstr "Дати оцінку темі (спасибі!)"
+
+#: includes/customizer/customizer.php:62 includes/customizer/customizer.php:128
+msgid "Expansion Pack"
+msgstr "Пакет розширень"
+
+#: includes/customizer/customizer.php:63
+#, php-format
+msgid ""
+"This option (and much more cool stuff) is available in the %s. Supercharge "
+"your Bento!"
+msgstr ""
+"Ця опція (і багато інших крутих функцій) доступна в %s. Зробіть Bento ще "
+"більш потужним!"
+
+#: includes/customizer/customizer.php:102
+msgid "View theme manual"
+msgstr "Переглянути документацію"
+
+#: includes/customizer/customizer.php:107
+msgid "Visit support forum"
+msgstr ""
+
+#: includes/customizer/customizer.php:112
+msgid "Like our Facebook page"
+msgstr "Підпишіться на наш паблік"
+
+#: includes/customizer/customizer.php:117
+msgid "Follow us on Twitter"
+msgstr "Читайте в Твіттері"
+
+#: includes/customizer/customizer.php:129
+#, php-format
+msgid ""
+"These options (and many more cool features) are available in the %s. "
+"Supercharge your Bento!"
+msgstr ""
+
+#: includes/customizer/customizer.php:146
+msgid "Bento Help"
+msgstr ""
+
+#: includes/customizer/customizer.php:186
+msgid "Customize the copyright message in the footer"
+msgstr "Налаштування повідомлення про авторські права в підвалі сайту"
+
+#: includes/customizer/customizer.php:187
+msgid ""
+"Use this field to add your own message instead of the theme link in the "
+"footer."
+msgstr ""
+"Використовуйте це поле, щоб додати ваше власне повідомлення в підвал сайту."
+
+#: includes/customizer/customizer.php:207
+msgid "Logo for mobile devices (optional)"
+msgstr "Логотип для мобільних пристроїв (не обов'язково)"
+
+#: includes/customizer/customizer.php:208
+msgid ""
+"Upload the image to be used as the logo on smartphones and tablets (i.e. all "
+"devices with screens smaller than 1280px). Leave this blank to use the "
+"default logo above."
+msgstr ""
+"Завантажте зображення, яке буде використовуватися в якості логотипу на "
+"смартфонах і планшетах (на всіх пристроях з шириною екрану менше 1280 "
+"пікселів). Залиште це поле порожнім щоб використовувати те ж зображення, що "
+"і вище."
+
+#: includes/customizer/customizer.php:218
+msgid "Website Elements"
+msgstr "Елементи сайту"
+
+#: includes/customizer/customizer.php:235
+msgid "Hide author block below posts"
+msgstr "Приховати інформацію про автора в записах"
+
+#: includes/customizer/customizer.php:236
+msgid ""
+"Check this option to stop displaying the author information in blog posts, "
+"below the content."
+msgstr ""
+"Встановіть цю опцію, щоб не відображати відомості про автора запису, під "
+"вмістом."
+
+#: includes/customizer/customizer.php:252
+msgid "Load posts on the same page in blog"
+msgstr "Завантажувати нові записи на тій же сторінці в блозі"
+
+#: includes/customizer/customizer.php:253
+msgid ""
+"Enable this to replace the standard blog pagination with a \"Load more\" "
+"button that does not reload the page."
+msgstr ""
+"Встановіть цю опцію, якщо хочете замінити стандартну розбивку по сторінках в "
+"блозі на кнопку «Завантажити більше», яка буде показувати більш ранні "
+"записи, без перезавантаження сторінки."
+
+#: includes/customizer/customizer.php:269
+msgid "Fix header on top of page on scroll"
+msgstr "«Липка» шапка при прокручуванні"
+
+#: includes/customizer/customizer.php:270
+msgid ""
+"Check this option if you wish to fix the header to the top of the screen "
+"while the website is being scrolled."
+msgstr ""
+"Встановіть цю опцію, якщо хочете щоб шапка сторінки залишалася видна в "
+"верхній частині екрану при прокручуванні веб-сайту."
+
+#: includes/customizer/customizer.php:286
+msgid "Hide submenu items in mobile menu"
+msgstr "Не показувати пункти підміню в меню сайту на мобільних пристроях"
+
+#: includes/customizer/customizer.php:287
+msgid "Check this option to only display top-level items in the mobile menu."
+msgstr ""
+"Встановіть цю опцію для відображення тільки елементів верхнього рівня в "
+"мобільних меню."
+
+#: includes/customizer/customizer.php:309
+msgid "Number of products per shop page (WooCommerce only)"
+msgstr "Кількість товарів на сторінці магазину (для WooCommerce)"
+
+#: includes/customizer/customizer.php:310
+msgid ""
+"Indicate the number of products to be displayed per page in the WooCommerce "
+"shop page; default is 12. Note that the WooCommerce plugin is not part of "
+"the theme needs to be installed separately."
+msgstr ""
+"Вкажіть кількість товарів, яка буде відображатися на сторінці в WooCommerce "
+"магазині; значення за замовчуванням - 12. Зверніть увагу, що безкоштовний "
+"плагін WooCommerce не є частиною шаблону, і його необхідно встановити окремо."
+
+#: includes/customizer/customizer.php:332
+msgid "Number of columns on the shop page (WooCommerce only)"
+msgstr "Кількість стовпців на сторінці магазину (для WooCommerce)"
+
+#: includes/customizer/customizer.php:333
+msgid ""
+"Input the number of columns for the WooCommerce shop page; default is 4; "
+"Note that the WooCommerce plugin is not part of the theme needs to be "
+"installed separately."
+msgstr ""
+"Введіть кількість стовпців на сторінці магазину WooCommerce; значення за "
+"замовчуванням - 4. Зверніть увагу, що безкоштовний плагін WooCommerce не є "
+"частиною шаблону, його необхідно встановити окремо."
+
+#: includes/customizer/customizer.php:342
+msgid "Layout and Background"
+msgstr "Розмітка і фон"
+
+#: includes/customizer/customizer.php:363
+msgid "1080 (default)"
+msgstr "1080 (за замовчуванням)"
+
+#: includes/customizer/customizer.php:369
+msgid "Content width"
+msgstr "Ширина вмісту сайту"
+
+#: includes/customizer/customizer.php:370
+msgid "Set the width of the content container, in pixels; default is 1080."
+msgstr "Управляє шириною вмісту, в пікселях; значення за замовчуванням - 1080."
+
+#: includes/customizer/customizer.php:378
+#: includes/customizer/customizer.php:387
+msgid "Wide (default)"
+msgstr "Широкий (за замовчуванням)"
+
+#: includes/customizer/customizer.php:388
+msgid "Boxed"
+msgstr "В контейнері"
+
+#: includes/customizer/customizer.php:390
+msgid "Website layout"
+msgstr "Розмітка сайту"
+
+#: includes/customizer/customizer.php:391
+msgid ""
+"Choose the layout of the website: - \"wide\" means that the full-width "
+"elements such as the header will stretch the entire width of the browser "
+"window (this is default). - \"boxed\" means that the website will be "
+"restricted to a maximum width and there will be space left between the "
+"content and the sides of the browser window."
+msgstr ""
+"Виберіть тип розмітки для сайту. «Широкий» означає, що елементи повної "
+"ширини, такі як шапка і підвал сайту, будуть розтягнуті на всю ширину вікна "
+"браузера (за замовчуванням). «В контейнері» означає, що веб-сайт буде "
+"обмежений до максимальної ширини, залишаючи простір по краях між вмістом і "
+"краями вікна браузера."
+
+#: includes/customizer/customizer.php:408
+msgid "Solid color (default)"
+msgstr "Суцільний колір (за замовчуванням)"
+
+#: includes/customizer/customizer.php:409
+msgid "Repeated texture"
+msgstr "Повторювана текстура"
+
+#: includes/customizer/customizer.php:410
+msgid "Full-size image"
+msgstr "Повнорозмірне зображення"
+
+#: includes/customizer/customizer.php:412
+msgid "Boxed layout: website background"
+msgstr "Фон сайту для розмітки «в контейнері»"
+
+#: includes/customizer/customizer.php:413
+msgid ""
+"Choose the type of background for the boxed website layout; default is solid "
+"color."
+msgstr ""
+"Вибрати тип фону для розмітки сайту типу «в контейнері»; за замовчуванням "
+"використовується суцільна заливка кольором."
+
+#: includes/customizer/customizer.php:430
+msgid "Boxed layout: website background color"
+msgstr "Колір фону для розмітки «в контейнері»"
+
+#: includes/customizer/customizer.php:431
+msgid ""
+"Choose the background color for the outer parts of the boxed website; "
+"default is #e6e6e6 (light-grey)."
+msgstr ""
+"Виберіть колір фону сайту для режиму розмітки «в контейнері»; значення за "
+"замовчуванням - #e6e6e6 (світло-сірий)."
+
+#: includes/customizer/customizer.php:450
+msgid "Boxed layout: website background texture"
+msgstr "Текстура фону для розмітки «в контейнері»"
+
+#: includes/customizer/customizer.php:451
+msgid ""
+"Upload the image to serve as the repeating texture for the outer parts of "
+"the boxed website."
+msgstr ""
+"Завантажте зображення для використання в якості ідентичної текстури для фону "
+"сайту в режимі «в контейнері»."
+
+#: includes/customizer/customizer.php:470
+msgid "Boxed layout: website background image"
+msgstr "Повнорозмірне фонове зображення сайту для розмітки «в контейнері»"
+
+#: includes/customizer/customizer.php:471
+msgid ""
+"Upload the image to serve as the full-width background for the outer parts "
+"of the boxed website."
+msgstr ""
+"Завантажте зображення для використання в якості фону сайту в режимі «в "
+"контейнері»."
+
+#: includes/customizer/customizer.php:489
+msgid "Top, right-aligned (default)"
+msgstr "Зверху, праворуч (за замовчуванням)"
+
+#: includes/customizer/customizer.php:490
+msgid "Top, centered"
+msgstr "Зверху, по центру"
+
+#: includes/customizer/customizer.php:491
+msgid "Top, hamburger button + overlay"
+msgstr "Зверху, з кнопкою-гамбургером"
+
+#: includes/customizer/customizer.php:492
+msgid "Left side"
+msgstr "В панелі зліва"
+
+#: includes/customizer/customizer.php:494
+msgid "Menu layout"
+msgstr "Розташування меню сайту"
+
+#: includes/customizer/customizer.php:495
+msgid ""
+"Choose the way the primary menu is displayed: - \"top, right-aligned\" is "
+"the classic header with menu on the right (this is default); \"top, centered"
+"\" makes the menu and the logo align to the center of the header, \"top, "
+"hamburger button\" hides the menu behind a mobile-style three-line icon "
+"which displays a full-page overlay menu when clicked - suitable for websites "
+"with simple and non-hierarchical navigation structure; \"left side\" "
+"displays the menu and the logo to the left of the content area, as a "
+"separate section."
+msgstr ""
+"Виберіть тип розташування основного меню сайту: - «Зверху, праворуч» - це "
+"класична шапка з меню по правій стороні і логотипом зліва (за "
+"замовчуванням); «Зверху, по центру» вирівнює логотип і меню по центру шапки, "
+"меню знаходиться під логотипом; \"3верху, кнопка-гамбургер\" ховаємо меню "
+"під іконку з трьох ліній і показує повноекранне меню при кліці на цю іконку "
+"- підходить для сайтів з простою однорівневою структурою навігації; «В "
+"панелі зліва» показує меню і логотип в окремій панелі зліва від вмісту сайту."
+
+#: includes/customizer/customizer.php:504
+msgid "Fonts and Typography"
+msgstr "Шрифти"
+
+#: includes/customizer/customizer.php:523
+msgid "Body font (Google Fonts)"
+msgstr "Шрифт вмісту (Google шрифти)"
+
+#: includes/customizer/customizer.php:524
+#, php-format
+msgid ""
+"Input Google Font name for the body font, e.g. Open Sans, exactly as spelled "
+"in the Google Fonts directory. You can preview Google Fonts here: %s; "
+"Default is Open Sans."
+msgstr ""
+"Впишіть точну назву Google-шрифта для вмісту сайту, наприклад Open Sans; "
+"будь ласка використовуйте саме таке написання, як в каталозі Google шрифтів. "
+"Ви можете ознайомитися з повним вибором Google-шрифтів тут:  %s. Значення за "
+"замовчуванням - Open Sans."
+
+#: includes/customizer/customizer.php:541
+msgid "Body font (Upload your own)"
+msgstr "Шрифт вмісту (завантажити свій власний)"
+
+#: includes/customizer/customizer.php:542
+msgid ""
+"Upload the font file to be used as body font; you can use .ttf, .otf, .woff "
+"and .eot file formats. This overrides the previous setting."
+msgstr ""
+"Завантажити файл шрифту для використання в якості шрифту вмісту сайту; Ви "
+"можете використовувати формати .ttf, .otf, .woff і .eot. Дане поле "
+"перекриває налаштування вище."
+
+#: includes/customizer/customizer.php:562
+#: includes/customizer/customizer.php:660
+msgid "14 (default)"
+msgstr "14 (за замовчуванням)"
+
+#: includes/customizer/customizer.php:568
+msgid "Body text size"
+msgstr "Розмір тексту вмісту"
+
+#: includes/customizer/customizer.php:569
+msgid "Choose the font size for the body text; default is 14px."
+msgstr ""
+"Вибрати розмір шрифту для вмісту сайту; значення за замовчуванням - 14px."
+
+#: includes/customizer/customizer.php:585
+msgid "Headings font (Google Fonts)"
+msgstr "Шрифт заголовків (Google шрифти)"
+
+#: includes/customizer/customizer.php:586
+#, php-format
+msgid ""
+"Input Google Font name for the headings font, e.g. Open Sans, exactly as "
+"spelled in the Google Fonts directory. You can preview Google Fonts here: "
+"%s; Default is Open Sans."
+msgstr ""
+"Впишіть точну назву Google-шрифта для заголовків сайту, наприклад Open Sans; "
+"будь ласка використовуйте саме таке написання, як в каталозі Google шрифтів. "
+"Ви можете ознайомитися з повним вибором Google-шрифтів тут: %s. Значення за "
+"замовчуванням - Open Sans."
+
+#: includes/customizer/customizer.php:603
+msgid "Headings font (Upload your own)"
+msgstr "Шрифт заголовків (завантажити свій власний)"
+
+#: includes/customizer/customizer.php:604
+msgid ""
+"Upload the font file to be used as headings font; you can use .ttf, .otf, ."
+"woff and .eot file formats. This overrides the previous setting."
+msgstr ""
+"Завантажити файл шрифту для використання в якості шрифту заголовків сайту; "
+"Ви можете використовувати формати .ttf, .otf, .woff і .eot. Дане поле "
+"перекриває налаштування вище."
+
+#: includes/customizer/customizer.php:621
+msgid "Menu font (Google Fonts)"
+msgstr "Шрифт меню (Google шрифти)"
+
+#: includes/customizer/customizer.php:622
+#, php-format
+msgid ""
+"Input Google Font name for the menu font, e.g. Montserrat, exactly as "
+"spelled in the Google Fonts directory. You can preview Google Fonts here: "
+"%s; Default is Montserrat."
+msgstr ""
+"Впишіть точну назву Google-шрифта для основного меню сайту, наприклад, "
+"Montserrat; будь ласка використовуйте саме таке написання, як в каталозі "
+"Google шрифтів. Ви можете ознайомитися з повним вибором Google-шрифтів тут: "
+"%s. Значення за замовчуванням - Montserrat."
+
+#: includes/customizer/customizer.php:639
+msgid "Menu font (Upload your own)"
+msgstr "Шрифт меню (завантажити свій власний)"
+
+#: includes/customizer/customizer.php:640
+msgid ""
+"Upload the font file to be used as menu font; you can use .ttf, .otf, .woff "
+"and .eot file formats. This overrides the previous setting."
+msgstr ""
+"Завантажити файл шрифту для використання в якості шрифту меню сайту; Ви "
+"можете використовувати формати .ttf, .otf, .woff і .eot. Дане поле "
+"перекриває налаштування вище."
+
+#: includes/customizer/customizer.php:666
+msgid "Menu text size"
+msgstr "Розмір тексту меню сайту"
+
+#: includes/customizer/customizer.php:667
+msgid "Choose the font size for the menu text; default is 14px."
+msgstr ""
+"Вибрати розмір шрифту для меню сайту; значення за замовчуванням - 14px."
+
+#: includes/customizer/customizer.php:683
+msgid "Remove uppercase from menu text"
+msgstr "Відображати пункти меню в звичайному регістрі"
+
+#: includes/customizer/customizer.php:684
+msgid ""
+"Check this option to render the menu items in sentence case (normal caps)."
+msgstr ""
+"Встановіть цю опцію, щоб не переводити пункти меню у верхній регістр (усі "
+"великі літери)."
+
+#: includes/customizer/customizer.php:693
+msgid "Header Colors"
+msgstr "Кольори шапки сайту"
+
+#: includes/customizer/customizer.php:711
+msgid "Header background color"
+msgstr "Колір фону шапки"
+
+#: includes/customizer/customizer.php:712
+msgid ""
+"Choose the background color for the top section of the website; default is "
+"#ffffff (white)."
+msgstr ""
+"Виберіть колір фону для шапки (верхньої частини) веб-сайту; значення за "
+"замовчуванням - #ffffff (білий)."
+
+#: includes/customizer/customizer.php:730
+msgid "Primary menu: background color"
+msgstr "Головне меню: колір фону"
+
+#: includes/customizer/customizer.php:731
+msgid ""
+"Choose the background color of the overlay menu; default is #eeeeee (light-"
+"grey)."
+msgstr ""
+"Виберіть колір фону для текстів в головному меню сайту; значення за "
+"замовчуванням - #eeeeee (світло-сірий)."
+
+#: includes/customizer/customizer.php:749
+msgid "Primary menu: text color"
+msgstr "Головне меню: колір тексту"
+
+#: includes/customizer/customizer.php:750
+msgid ""
+"Choose the text color for the main navigation menu; this will also apply to "
+"mobile menu text color by default, if nothing is chosen in the respective "
+"option below; default is #333333 (dark-grey)."
+msgstr ""
+"Виберіть колір тексту для головного меню; це налаштування буде також "
+"застосовуватися до кольору тексту мобільного меню, якщо нічого не вибрано у "
+"відповідній опції нижче; значення за замовчуванням - #333333 (темно-сірий)."
+
+#: includes/customizer/customizer.php:768
+msgid "Primary menu: text color on hover"
+msgstr "Головне меню: колір тексту при наведенні миші"
+
+#: includes/customizer/customizer.php:769
+msgid ""
+"Choose which color menu items become on mouse hover; default is #00b285 "
+"(blue-green)."
+msgstr ""
+"Виберіть колір тексту для головного меню при наведенні миші; значення за "
+"замовчуванням - #00b285 (синьо-зелений)."
+
+#: includes/customizer/customizer.php:787
+msgid "Primary menu: item separators"
+msgstr "Головне меню: колір розділових ліній"
+
+#: includes/customizer/customizer.php:788
+msgid ""
+"Choose the color for the separator lines in the primary menu; default is "
+"#eeeeee (light-grey)."
+msgstr ""
+"Виберіть колір розділових ліній для головного меню; значення за "
+"замовчуванням - #eeeeee (світло-сірий)."
+
+#: includes/customizer/customizer.php:806
+msgid "Primary menu: submenu background color"
+msgstr "Головне меню: колір фону підменю"
+
+#: includes/customizer/customizer.php:807
+msgid ""
+"Choose the background color for the submenus; this will also apply to mobile "
+"menu background color by default, if nothing is chosen in the respective "
+"option below; default is #dddddd (grey)."
+msgstr ""
+"Виберіть колір фону для підменю в головному меню; це налаштування буде також "
+"застосовуватися до кольору фону мобільного меню якщо нічого не вибрано у "
+"відповідній опції нижче; значення за замовчуванням - #dddddd (сірий)."
+
+#: includes/customizer/customizer.php:825
+msgid "Primary menu: submenu background color on hover"
+msgstr "Головне меню: колір фону підменю при наведенні миші"
+
+#: includes/customizer/customizer.php:826
+msgid ""
+"Choose the color used as a background for submenu items on mouse hover; this "
+"will also apply to mobile menu hover background color by default, if nothing "
+"is chosen in the respective option below; default is #cccccc (grey)."
+msgstr ""
+"Виберіть колір фону для підменю в головному меню при наведенні миші; це "
+"налаштування буде також застосовуватися до кольору фону мобільного меню при "
+"наведенні миші, якщо нічого не вибрано у відповідній опції нижче; значення "
+"за замовчуванням - #cccccc (сірий)."
+
+#: includes/customizer/customizer.php:844
+msgid "Primary menu: submenu border color"
+msgstr "Головне меню: колір роздільників підменю"
+
+#: includes/customizer/customizer.php:845
+msgid ""
+"Choose the color of submenu item borders; this will also apply to mobile "
+"menu border color by default, if nothing is chosen in the respective option "
+"below; default is #cccccc (grey)."
+msgstr ""
+"Виберіть колір роздільників для підменю в головному меню; це налаштування "
+"буде також застосовуватися до кольору роздільників мобільного меню миші, "
+"якщо нічого не вибрано у відповідній опції нижче; значення за замовчуванням "
+"- #cccccc (сірий)."
+
+#: includes/customizer/customizer.php:863
+msgid "Primary menu: submenu text color"
+msgstr "Головне меню: колір тексту підменю"
+
+#: includes/customizer/customizer.php:864
+msgid "Choose the text color for the submenus; default is #333333 (dark-grey)."
+msgstr ""
+"Виберіть колір тексту для підменю в головному меню; значення за "
+"замовчуванням - #333333 (темно-сірий)."
+
+#: includes/customizer/customizer.php:882
+msgid "Primary menu: submenu text color on hover"
+msgstr "Головне меню: колір тексту підменю при наведенні миші"
+
+#: includes/customizer/customizer.php:883
+msgid ""
+"Choose the mouse-hover text color for the submenus; default is #333333 (dark-"
+"grey)."
+msgstr ""
+"Виберіть колір тексту при наведенні миші для підменю в головному меню; "
+"значення за замовчуванням - # 333333 (темно-сірий)."
+
+#: includes/customizer/customizer.php:901
+msgid "Mobile menu: background color"
+msgstr "Мобільне меню: колір фону"
+
+#: includes/customizer/customizer.php:902
+msgid ""
+"Choose the background color for the mobile menu; default is #dddddd (light-"
+"grey)."
+msgstr ""
+"Виберіть колір фону головного меню на мобільних пристроях; значення за "
+"замовчуванням - #dddddd (світло-сірий)."
+
+#: includes/customizer/customizer.php:920
+msgid "Mobile menu: background color on hover"
+msgstr "Мобільне меню: колір фону при наведенні миші"
+
+#: includes/customizer/customizer.php:921
+msgid "Choose the background color on hover; default is #cccccc (light-grey)."
+msgstr ""
+"Виберіть колір фону головного меню на мобільних пристроях при наведенні "
+"миші; значення за замовчуванням - #cccccc (світло-сірий)."
+
+#: includes/customizer/customizer.php:939
+msgid "Mobile menu: border color"
+msgstr "Мобільне меню: колір розділових ліній"
+
+#: includes/customizer/customizer.php:940
+msgid ""
+"Choose the border color for the mobile menu; default is #cccccc (light-grey)."
+msgstr ""
+"Виберіть колір розділових ліній в головному меню на мобільних пристроях; "
+"значення за замовчуванням - #сссссс (світло-сірий)."
+
+#: includes/customizer/customizer.php:958
+msgid "Mobile menu: text color"
+msgstr "Мобільне меню: колір тексту"
+
+#: includes/customizer/customizer.php:959
+msgid ""
+"Choose the text color for the mobile menu; default is #333333 (dark-grey)."
+msgstr ""
+"Виберіть колір тексту в головному меню на мобільних пристроях; значення за "
+"замовчуванням - #333333 (темно-сірий)."
+
+#: includes/customizer/customizer.php:977
+msgid "Mobile menu: text color on hover"
+msgstr "Мобільне меню: колір тексту при наведенні миші"
+
+#: includes/customizer/customizer.php:978
+msgid ""
+"Choose the text color on mouse hover for the mobile menu; default is #333333 "
+"(dark-grey)."
+msgstr ""
+"Виберіть колір тексту в головному меню при наведенні миші на мобільних "
+"пристроях; значення за замовчуванням - #333333 (темно-сірий)."
+
+#: includes/customizer/customizer.php:988
+msgid "Content Colors"
+msgstr "Кольори елементів контенту"
+
+#: includes/customizer/customizer.php:1006
+msgid "Content area background color"
+msgstr "Колір фону вмісту"
+
+#: includes/customizer/customizer.php:1007
+msgid ""
+"Choose the background color for the main content area of the website; "
+"default is #f4f4f4 (light-grey)."
+msgstr ""
+"Виберіть колір фону для області основного вмісту веб-сайту; значення за "
+"замовчуванням - #f4f4f4 (світло-сірий)."
+
+#: includes/customizer/customizer.php:1025
+msgid "Heading color"
+msgstr "Колір заголовків"
+
+#: includes/customizer/customizer.php:1026
+msgid ""
+"Choose the color of headings throughout the website; default is #333333 "
+"(dark-grey)."
+msgstr ""
+"Виберіть колір заголовків на веб-сайті; значення за замовчуванням - #333333 "
+"(темно-сірий)."
+
+#: includes/customizer/customizer.php:1044
+msgid "Body text color"
+msgstr "Колір тексту вмісту"
+
+#: includes/customizer/customizer.php:1045
+msgid ""
+"Choose the primary text color for the body of the website; default is "
+"#333333 (dark-grey)."
+msgstr ""
+"Виберіть основний колір тексту для вмісту веб-сайту; значення за "
+"замовчуванням - #333333 (темно-сірий)."
+
+#: includes/customizer/customizer.php:1063
+msgid "Link text color"
+msgstr "Колір посилань"
+
+#: includes/customizer/customizer.php:1064
+msgid ""
+"Choose the color for the link text throughout the website; default is "
+"#00b285 (blue-green)."
+msgstr ""
+"Виберіть колір тексту для посилань у вмісті веб-сайту; значення за "
+"замовчуванням - #00b285 (синьо-зелений)."
+
+#: includes/customizer/customizer.php:1082
+msgid "Meta text color"
+msgstr "Колір допоміжних текстів"
+
+#: includes/customizer/customizer.php:1083
+msgid ""
+"Pick the color for meta content such as post dates, comment counts, and post "
+"counts; default is #999999 (grey)."
+msgstr ""
+"Виберіть колір тексту для допоміжних елементів, таких як дати записів, "
+"кількості коментарів і т.д .; значення за замовчуванням - #999999 (сірий)."
+
+#: includes/customizer/customizer.php:1101
+msgid "Delimiter line color"
+msgstr "Колір розділових ліній на сайті"
+
+#: includes/customizer/customizer.php:1102
+msgid ""
+"Choose the color for delimiter lines, e.g. before comments, in sidebar "
+"widgets and in the shopping cart; also applies to in-text tables; default is "
+"#dddddd (light-grey)."
+msgstr ""
+"Виберіть колір для розділових ліній, наприклад в блоках коментарів, в бічній "
+"панелі і в купівельному кошику; також застосовується до таблиць в текстах "
+"вмісту; значення за замовчуванням - #dddddd (світло-сірий)."
+
+#: includes/customizer/customizer.php:1120
+msgid "Input fields: background color"
+msgstr "Поля введення: колір фону"
+
+#: includes/customizer/customizer.php:1121
+msgid ""
+"Choose the background color for input fields, such as comments and search; "
+"default is #e4e4e4 (light-grey)."
+msgstr ""
+"Виберіть колір фону для полів вводу, наприклад полів в коментарях і пошуку; "
+"значення за замовчуванням - #e4e4e4 (світло-сірий)."
+
+#: includes/customizer/customizer.php:1139
+msgid "Input fields: text color"
+msgstr "Поля введення: колір тексту"
+
+#: includes/customizer/customizer.php:1140
+msgid ""
+"Choose the color for the text typed into input fields, such as comment "
+"forms; default is #333333 (dark-grey)."
+msgstr ""
+"Виберіть колір тексту для полів вводу, наприклад полів в коментарях і "
+"пошуку; значення за замовчуванням - #333333 (темно-сірий)."
+
+#: includes/customizer/customizer.php:1158
+msgid "Input fields: placeholder text color"
+msgstr "Поля введення: колір підказки в порожньому полі"
+
+#: includes/customizer/customizer.php:1159
+msgid ""
+"Choose the placeholder text color for input fields, i.e. the text that "
+"appears in empty fields; default is #aaaaaa (grey)."
+msgstr ""
+"Виберіть колір тексту для підказок в полях введення, наприклад в коментарях "
+"і пошуку; значення за замовчуванням - #aaaaaa (сірий)."
+
+#: includes/customizer/customizer.php:1177
+msgid "Buttons color"
+msgstr "Колір кнопок"
+
+#: includes/customizer/customizer.php:1178
+msgid ""
+"Choose the color for buttons throughout the website; default is #00b285 "
+"(blue-green)."
+msgstr ""
+"Виберіть колір кнопок на сайті; значення за замовчуванням - #00b285 (синьо-"
+"зелений)."
+
+#: includes/customizer/customizer.php:1196
+msgid "Button color on hover"
+msgstr "Колір кнопок при наведенні миші"
+
+#: includes/customizer/customizer.php:1197
+msgid ""
+"Choose the color for buttons on mouse hover; default is #00906c (dark blue-"
+"green)."
+msgstr ""
+"Виберіть колір кнопок при наведенні миші; за замовчуванням - #00906c (темно-"
+"зелений)."
+
+#: includes/customizer/customizer.php:1215
+msgid "Button text color"
+msgstr "Колір тексту кнопок"
+
+#: includes/customizer/customizer.php:1216
+msgid "Choose the color for button text; default is #ffffff (white)."
+msgstr ""
+"Виберіть колір для тексту кнопок; значення за замовчуванням - #ffffff (білий)"
+
+#: includes/customizer/customizer.php:1234
+msgid "Button text color on hover"
+msgstr "Колір тексту кнопок при наведенні миші"
+
+#: includes/customizer/customizer.php:1235
+msgid ""
+"Choose the color for button text on mouse hover; default is #ffffff (white)."
+msgstr ""
+"Виберіть колір для тексту кнопок при наведенні миші; значення за "
+"замовчуванням - #ffffff (білий)"
+
+#: includes/customizer/customizer.php:1253
+msgid "Secondary button color"
+msgstr "Колір додаткових кнопок"
+
+#: includes/customizer/customizer.php:1254
+msgid ""
+"Choose the color for secondary buttons, mainly for WooCommerce plugin, e.g. "
+"\"update basket\" and \"apply coupon\"; default is #999999 (grey)."
+msgstr ""
+"Виберіть колір додаткових кнопок на сайті, в основному застосовуються в "
+"плагіні WooCommerce («оновити кошик», «використовувати купон» і т. д.); "
+"значення за замовчуванням - #999999 (сірий)."
+
+#: includes/customizer/customizer.php:1272
+msgid "Secondary button color on hover"
+msgstr "Колір додаткових кнопок при наведенні миші"
+
+#: includes/customizer/customizer.php:1273
+msgid ""
+"Choose the color for secondary buttons on mouse hover; default is #777777 "
+"(grey)."
+msgstr ""
+"Виберіть колір додаткових кнопок при наведенні миші; значення за "
+"замовчуванням - #777777 (сірий)."
+
+#: includes/customizer/customizer.php:1291
+msgid "Secondary button text color"
+msgstr "Колір тексту додаткових кнопок"
+
+#: includes/customizer/customizer.php:1292
+msgid ""
+"Choose the text color for secondary buttons, mainly for WooCommerce plugin, "
+"e.g. \"update basket\" and \"apply coupon\"; default is #ffffff (white)."
+msgstr ""
+"Виберіть колір тексту додаткових кнопок на сайті, в основному застосовуються "
+"в плагіні WooCommerce («оновити кошик», «використовувати купон» і т. д.); "
+"значення за замовчуванням - #ffffff (білий)."
+
+#: includes/customizer/customizer.php:1310
+msgid "Secondary button text color on hover"
+msgstr "Колір тексту додаткових кнопок при наведенні миші"
+
+#: includes/customizer/customizer.php:1311
+msgid ""
+"Choose the text color for secondary buttons on mouse hover; default is "
+"#ffffff (white)."
+msgstr ""
+"Виберіть колір для тексту додаткових кнопок при наведенні миші; значення за "
+"замовчуванням - #ffffff (білий)"
+
+#: includes/customizer/customizer.php:1321
+msgid "Footer Colors"
+msgstr "Кольори елементів підвалу"
+
+#: includes/customizer/customizer.php:1339
+msgid "Footer widget area background color"
+msgstr "Колір фону області з віджетами в підвалі сайту"
+
+#: includes/customizer/customizer.php:1340
+msgid ""
+"Choose the background color for the footer widget area; default is #888888 "
+"(grey)."
+msgstr ""
+"Виберіть колір фону для області віджетами в нижній частині сайту; значення "
+"за замовчуванням - #888888 (сірий)."
+
+#: includes/customizer/customizer.php:1358
+msgid "Footer text color"
+msgstr "Колір тексту в підвалі сайту"
+
+#: includes/customizer/customizer.php:1359
+msgid "Choose the text color for the footer; default is #cccccc (light-grey)."
+msgstr ""
+"Виберіть колір тексту області з віджетами в нижній частині сайту; значення "
+"за замовчуванням - #сссссс (світло-сірий)."
+
+#: includes/customizer/customizer.php:1377
+msgid "Footer link color"
+msgstr "Колір посилань в підвалі сайту"
+
+#: includes/customizer/customizer.php:1378
+msgid "Choose the color for links in the footer; default is #ffffff (white)."
+msgstr ""
+"Виберіть колір посилань в області з віджетами в нижній частині сайту; "
+"значення за замовчуванням - #ffffff (білий)."
+
+#: includes/customizer/customizer.php:1396
+msgid "Footer meta text color"
+msgstr "Колір допоміжних текстів в підвалі сайту"
+
+#: includes/customizer/customizer.php:1397
+msgid ""
+"Choose the color meta text, such as dates and post counts, in the footer; "
+"default is #aaaaaa (light-grey)."
+msgstr ""
+"Виберіть колір допоміжних текстів, наприклад дат і кількості записів, в "
+"області з віджетами в нижній частині сайту; значення за замовчуванням - "
+"#aaaaaa (світло-сірий)."
+
+#: includes/customizer/customizer.php:1415
+msgid "Footer delimiter text color"
+msgstr "Колір розділових ліній в підвалі сайту"
+
+#: includes/customizer/customizer.php:1416
+msgid ""
+"Choose the color for delimiter lines in the footer widgets; default is "
+"#999999 (light-grey)."
+msgstr ""
+"Виберіть колір для розділових ліній в віджети в нижній частині сайту; "
+"значення за замовчуванням - #999999 (світло-сірий)."
+
+#: includes/customizer/customizer.php:1434
+msgid "Bottom footer background color"
+msgstr "Колір фону нижньої частини підвалу сайту"
+
+#: includes/customizer/customizer.php:1435
+msgid ""
+"Choose the background color for the bottom part of the footer containing the "
+"optional footer menu and the copyright information; default is #666666 "
+"(grey)."
+msgstr ""
+"Виберіть колір фону для самої нижньої частини сайту, що містить нижнє меню "
+"(необов'язково) і інформацію про авторські права; значення за замовчуванням "
+"- #666666 (сірий)."
+
+#: includes/customizer/customizer.php:1453
+msgid "Bottom footer: text color"
+msgstr "Колір тексту в нижній частині підвалу сайту"
+
+#: includes/customizer/customizer.php:1454
+msgid ""
+"Choose the color for the bottom footer text; default is #cccccc (light-grey)."
+msgstr ""
+"Виберіть колір тексту для самої нижньої частини сайту; значення за "
+"замовчуванням - #сссссс (світло-сірий)."
+
+#: includes/customizer/customizer.php:1472
+msgid "Bottom footer: link color"
+msgstr "Колір посилання внизу підвалу сайту"
+
+#: includes/customizer/customizer.php:1473
+msgid ""
+"Choose the color for links in the bottom footer area; default is #ffffff "
+"(white)."
+msgstr ""
+"Виберіть колір посилань для самої нижньої частини сайту; значення за "
+"замовчуванням - #ffffff (білий)."
+
+#: includes/customizer/customizer.php:1483
+msgid "Custom CSS"
+msgstr "Власний CSS"
+
+#: includes/customizer/customizer.php:1500
+msgid "Custom Styles"
+msgstr "Стилі користувача"
+
+#: includes/customizer/customizer.php:1501
+msgid "Enter any custom CSS here to apply to the website."
+msgstr "Введіть власний CSS код тут."
+
+#: includes/customizer/customizer.php:1538
+msgid "Analytics Code"
+msgstr "Код аналітики"
+
+#: includes/customizer/customizer.php:1566
+msgid "Call to Action Popup"
+msgstr "Спливаючий блок заклику до дії"
+
+#: includes/customizer/customizer.php:1594
+msgid "Preloader"
+msgstr "Екран завантаження"
+
+#: includes/customizer/customizer.php:2100
+#, php-format
+msgid "Migration successful! Check out the <a href=\"%s\">Customizer</a>"
+msgstr ""
+
+#: includes/customizer/customizer.php:2105
+msgid "Action required - migrate Bento theme options into the Customizer"
+msgstr ""
+
+#: includes/customizer/customizer.php:2108
+msgid ""
+"Due to a change in WordPress rules, all theme options are now handled by the "
+"native Customizer (\"Appearance -> Customize\" admin section). Please click "
+"on the button below to transfer existing Bento theme options to the "
+"Customizer"
+msgstr ""
+
+#: includes/customizer/customizer.php:2111
+msgid "Transfer theme options"
+msgstr ""
+
+#: includes/metaboxes/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr "Конфігурація Metabox вимагає наявності параметра ID"
+
+#: includes/metaboxes/includes/CMB2.php:332
+msgid "Click to toggle"
+msgstr "Натисніть для перемикання"
+
+#: includes/metaboxes/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr "Будь ласка, спробуйте ще раз"
+
+#: includes/metaboxes/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr "Видалити розміщення"
+
+#: includes/metaboxes/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Результатів oEmbed для %s не знайдено. Більше інформації тут"
+
+#: includes/metaboxes/includes/CMB2_Field.php:955
+msgid "Add Group"
+msgstr "Додати групу"
+
+#: includes/metaboxes/includes/CMB2_Field.php:956
+msgid "Remove Group"
+msgstr "Видалити групу"
+
+#: includes/metaboxes/includes/CMB2_Field.php:978
+#: includes/metaboxes/includes/CMB2_Field.php:982
+msgid "None"
+msgstr "Ніякі"
+
+#: includes/metaboxes/includes/CMB2_JS.php:86
+#: includes/metaboxes/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr "Очистити"
+
+#: includes/metaboxes/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: includes/metaboxes/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr "Вибрати колір"
+
+#: includes/metaboxes/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr "Поточний колір"
+
+#: includes/metaboxes/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr "мм/дд/рр"
+
+#: includes/metaboxes/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Неділя, Понеділок, Вівторок, Середа, Четвер, П'ятниця, Субота"
+
+#: includes/metaboxes/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "Нд, Пн, Вт, Ср, Чт, Пт, Сб"
+
+#: includes/metaboxes/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Нед, Пнд, Вівт, Срд, Четв, П'ятн, Суб"
+
+#: includes/metaboxes/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+"Січень, Лютий, Березень, Квітень, Травень, Червень, Липень, Серпень, "
+"Вересень, Жовтень, Листопад, Грудень"
+
+#: includes/metaboxes/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Січ, Лют, Бер, Квіт, Трав, Черв, Лип, Серп, Вер, Жовт, Лист, Груд"
+
+#: includes/metaboxes/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr "Наступний"
+
+#: includes/metaboxes/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr "Попередній"
+
+#: includes/metaboxes/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr "Сьогодні"
+
+#: includes/metaboxes/includes/CMB2_JS.php:118
+#: includes/metaboxes/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr "Готово"
+
+#: includes/metaboxes/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr "Вибрати час"
+
+#: includes/metaboxes/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr "Час"
+
+#: includes/metaboxes/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr "Година"
+
+#: includes/metaboxes/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr "Хвилина"
+
+#: includes/metaboxes/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr "Секунда"
+
+#: includes/metaboxes/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr "Зараз"
+
+#: includes/metaboxes/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr "гг:хвхв"
+
+#: includes/metaboxes/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr "Використовувати цей файл"
+
+#: includes/metaboxes/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr "Використовувати ці файли"
+
+#: includes/metaboxes/includes/CMB2_JS.php:137
+#: includes/metaboxes/includes/CMB2_Types.php:1004
+msgid "Remove Image"
+msgstr "Видалити зображення"
+
+#: includes/metaboxes/includes/CMB2_JS.php:138
+#: includes/metaboxes/includes/CMB2_Types.php:357
+#: includes/metaboxes/includes/CMB2_Types.php:1023
+msgid "Remove"
+msgstr "Видалити"
+
+#: includes/metaboxes/includes/CMB2_JS.php:139
+#: includes/metaboxes/includes/CMB2_Types.php:1018
+msgid "File:"
+msgstr "Файл:"
+
+#: includes/metaboxes/includes/CMB2_JS.php:140
+#: includes/metaboxes/includes/CMB2_Types.php:1021
+msgid "Download"
+msgstr "Завантажити"
+
+#: includes/metaboxes/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr "Вибрати все / Зняти вибір з усього"
+
+#: includes/metaboxes/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr "Додати рядок"
+
+#: includes/metaboxes/includes/CMB2_Types.php:749
+#: includes/metaboxes/includes/CMB2_Types.php:797
+msgid "No terms"
+msgstr "Об'єктів не знайдено"
+
+#: includes/metaboxes/includes/CMB2_Types.php:864
+msgid "Add or Upload Files"
+msgstr "Додати або завантажити файли"
+
+#: includes/metaboxes/includes/CMB2_Types.php:926
+msgid "Add or Upload File"
+msgstr "Додати або завантажити файли"
+
+#: includes/metaboxes/includes/helper-functions.php:250
+msgid "Save"
+msgstr "Зберегти"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Встановити необхідні плаґіни"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Встановити плаґіни"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плаґіна: %s"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Щось пішло не так з API плаґінів."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ця тема вимагає наступний плаґін: %1$s."
+msgstr[1] "Ця тема вимагає наступні плаґіни: %1$s."
+msgstr[2] "Ця тема вимагає наступні плаґіни: %1$s."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ця тема рекомендує наступний плаґін: %1$s."
+msgstr[1] "Ця тема рекомендує наступні плаґіни: %1$s."
+msgstr[2] "Ця тема рекомендує наступні плаґіни: %1$s."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] "Вибачте, у вас немає прав для установки плаґіна %1$s."
+msgstr[1] "Вибачте, у вас немає прав для установки плаґінів %1$s."
+msgstr[2] "Вибачте, у вас немає прав для установки плаґінів %1$s."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Даний плаґін повинен бути оновлений до останньої версії, щоб забезпечити "
+"максимальну сумісність з цим шаблоном: %1$s."
+msgstr[1] ""
+"Дані плаґіни повинні бути оновлені до останньої версії, щоб забезпечити "
+"максимальну сумісність з цим шаблоном: %1$s."
+msgstr[2] ""
+"Дані плаґіни повинні бути оновлені до останньої версії, щоб забезпечити "
+"максимальну сумісність з цим шаблоном: %1$s."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Є доступні оновлення для: %1$s."
+msgstr[1] "Є доступні оновлення для: %1$s."
+msgstr[2] "Є доступні оновлення для: %1$s."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] "Вибачте, у вас немає прав для поновлення %1$s з плаґіна."
+msgstr[1] "Вибачте, у вас немає прав для поновлення %1$s з плаґінів."
+msgstr[2] "Вибачте, у вас немає прав для поновлення %1$s з плаґінів."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Даний необхідний плаґін зараз не активний: %1$s."
+msgstr[1] "Дані необхідні плаґіни зараз не активні: %1$s."
+msgstr[2] "Дані необхідні плаґіни зараз не активні: %1$s."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Даний рекомендований плаґін зараз не активний: %1$s."
+msgstr[1] "Дані рекомендовані плаґіни зараз не активні: %1$s."
+msgstr[2] "Дані рекомендовані плаґіни зараз не активні: %1$s."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] "Вибачте, у вас немає прав для активації плаґінів: %1$s."
+msgstr[1] "Вибачте, у вас немає прав для активації плаґінів: %1$s."
+msgstr[2] "Вибачте, у вас немає прав для активації плаґінів: %1$s."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Почати установку плаґіна"
+msgstr[1] "Почати установку плаґінів"
+msgstr[2] "Почати установку плаґінів"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Почати оновлення плаґіна"
+msgstr[1] "Почати оновлення плаґінів"
+msgstr[2] "Почати оновлення плаґінів"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Почати активацію плаґіна"
+msgstr[1] "Почати активацію плаґінів"
+msgstr[2] "Почати активацію плаґінів"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Повернутися до установки необхідних плаґінів"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Повернутися в панель управління"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:399
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3030
+msgid "Plugin activated successfully."
+msgstr "Плаґін успішно активований."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:400
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2833
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Наступний плаґін був успішно активований:"
+msgstr[1] "Наступні плаґіни були успішно активовані:"
+msgstr[2] "Наступні плаґіни були успішно активовані:"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ніяких дій не робилося. Плаґін %1$s уже активний."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Плаґін не активовано. Поточному шаблону необхідна більш нова версія плаґіна "
+"%s. Будь ласка оновіть плаґін."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Всі плаґіни встановлені і активовані. %1$s"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Приховати це повідомлення"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Для допомоги зв'яжіться з адміністратором цього сайту."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Для сумісності з поточним шаблоном плаґін повинен бути оновлений."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr "Потрібно оновлення"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr "Встановіть параметр parent_slug."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:829
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3439
+msgid "Return to the Dashboard"
+msgstr "Повернутися в панель управління"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:936
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Віддалений пакет плаґіна не містить папку з бажаним посиланням і "
+"перейменування не працює."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:936
+#: includes/plugin-activation/class-tgm-plugin-activation.php:939
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Будь ласка, зверніться до розробника плаґіна з проханням упакувати свій "
+"плаґін відповідно до рекомендацій WordPress."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:939
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "Плаґін складається з більш ніж одного файлу, але файли не упаковані."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:1117
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2829
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "і"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:1882
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2168
+msgid "Required"
+msgstr "Обов'язково"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2171
+msgid "Recommended"
+msgstr "Рекомендовано"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2187
+msgid "WordPress Repository"
+msgstr "WordPress репозиторій"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2190
+msgid "External Source"
+msgstr "Зовнішнє джерело"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2193
+msgid "Pre-Packaged"
+msgstr "Попередньо упаковані"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2210
+msgid "Not Installed"
+msgstr "Не встановлено"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2214
+msgid "Installed But Not Activated"
+msgstr "Встановлено, але не активно"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2216
+msgid "Active"
+msgstr "Активно"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2222
+msgid "Required Update not Available"
+msgstr "Необхідне оновлення недоступне"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2225
+msgid "Requires Update"
+msgstr "Потрібно оновлення"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2228
+msgid "Update recommended"
+msgstr "Рекомендується оновлення"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2236
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2281
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Всі <span class=\"count\">(%s)</span>"
+msgstr[2] "Всі <span class=\"count\">(%s)</span>"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2284
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[1] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[2] "Для установки <span class=\"count\">(%s)</span>"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2287
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно оновлення <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступно оновлення <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступно оновлення <span class=\"count\">(%s)</span>"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2290
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активації <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активації <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активації <span class=\"count\">(%s)</span>"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2372
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "невідома"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2380
+msgid "Installed version:"
+msgstr "Встановлена версія:"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2388
+msgid "Minimum required version:"
+msgstr "Мінімальна необхідна версія:"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "Available version:"
+msgstr "Доступна версія:"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2423
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Немає плаґінів для установки, оновлення або активування. <a href=\"%1$s"
+"\">Повернутися в панель управління</a>"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2437
+msgid "Plugin"
+msgstr "Плаґін"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2438
+msgid "Source"
+msgstr "Джерело"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2439
+msgid "Type"
+msgstr "Тип"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2443
+msgid "Version"
+msgstr "Версія"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2444
+msgid "Status"
+msgstr "Статус"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2492
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Встановити %2$s"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2496
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Оновити %2$s"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2501
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Активувати %2$s"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2571
+msgid "Upgrade message from the plugin author:"
+msgstr "Повідомлення про оновлення від автора плагіна:"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2604
+msgid "Install"
+msgstr "Встановити"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2610
+msgid "Update"
+msgstr "Оновити"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2613
+msgid "Activate"
+msgstr "Активувати"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2644
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Ви не обрали плаґіни для установки. Ніяких дій не виконано."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2646
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Ви не обрали плаґіни для поновлення. Ніяких дій не виконано."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2682
+msgid "No plugins are available to be installed at this time."
+msgstr "Немає плаґінів, доступних для установки."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "No plugins are available to be updated at this time."
+msgstr "Немає плаґінів, доступних для поновлення."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2789
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Ви не обрали плаґіни для активації. Ніяких дій не виконано."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:2815
+msgid "No plugins are available to be activated at this time."
+msgstr "Немає плаґінів, доступних для активації."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3029
+msgid "Plugin activation failed."
+msgstr "Активація плаґіна не вдалася."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3363
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Оновлення плаґіна %1$s (%2$d/%3$d)"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Помилка при установці %1$s: <strong>%2$s</strong>."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3366
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не вдалася."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3370
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Запущено процес установки і активації. Він може зайняти деякий час, будьте "
+"терплячі."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3371
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "Установка і активація %1$s завершена успішно."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3371
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3377
+msgid "Show Details"
+msgstr "Показати подробиці"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3371
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3377
+msgid "Hide Details"
+msgstr "Сховати деталі"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3372
+msgid "All installations and activations have been completed."
+msgstr "Всі установки і активації завершені."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3373
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка і активація плаґіна %1$s (%2$d/%3$d)"
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3376
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Запущено процес установки. Він може зайняти деякий час, будьте терплячі."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s успішно встановлений."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3378
+msgid "All installations have been completed."
+msgstr "Всі установки були завершені."
+
+#: includes/plugin-activation/class-tgm-plugin-activation.php:3379
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагіна %1$s (%2$d/%3$d)"
+
+#: includes/template-tags.php:493 includes/template-tags.php:547
+msgid "Posted by"
+msgstr "Опубліковано"
+
+#: includes/template-tags.php:503
+msgid "in"
+msgstr "в"
+
+#: includes/template-tags.php:509
+msgid "0 comments"
+msgstr "0 коментарів"
+
+#: includes/template-tags.php:511
+msgid "comments"
+msgstr "коментарів"
+
+#: includes/template-tags.php:513
+msgid "1 comment"
+msgstr "1 коментар"
+
+#: includes/template-tags.php:519
+msgid "on"
+msgstr "датовано"
+
+#: includes/template-tags.php:526
+msgid "Edit this"
+msgstr "Редагувати"
+
+#: includes/template-tags.php:555
+#, php-format
+msgid "View all posts by %s"
+msgstr "Усі записи автора %s"
+
+#: includes/template-tags.php:575
+msgid "Newer Comments"
+msgstr "Більш пізніші коментарі"
+
+#: includes/template-tags.php:578
+msgid "Older Comments"
+msgstr "Більш ранні коментарі"
+
+#: includes/template-tags.php:609
+msgid "Edit"
+msgstr "Редагувати"
+
+#: includes/template-tags.php:625
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує модерації"
+
+#: includes/template-tags.php:639
+msgid "Previous page"
+msgstr "Попередня сторінка"
+
+#: includes/template-tags.php:640
+msgid "Next page"
+msgstr "Наступна сторінка"
+
+#: includes/template-tags.php:656
+msgid "Posts navigation"
+msgstr "Навігація по публікаціям"
+
+#: includes/template-tags.php:716 includes/template-tags.php:718
+msgid "theme"
+msgstr "тема"
+
+#: includes/template-tags.php:744
+msgid "Load more"
+msgstr "Завантажити ще"
+
+#: includes/template-tags.php:875
+msgid "Welcome to"
+msgstr "Ласкаво просимо в"
+
+#: includes/template-tags.php:876
+msgid "The Ultimate Free WordPress Theme"
+msgstr "універсальний безкоштовний шаблон WordPress"
+
+#: includes/template-tags.php:880
+msgid "Open theme manual"
+msgstr "Подивитися документацію"
+
+#: includes/template-tags.php:883
+msgid "View full demo"
+msgstr "Поглянути повне демо"
+
+#: includes/template-tags.php:886
+msgid "Dismiss this heading"
+msgstr "Приховати цей заголовок"
+
+#: search.php:19
+msgid "Search results for"
+msgstr "Результати пошуку для"
+
+#: searchform.php:5
+msgid "Search"
+msgstr "Знайти"
+
+#. Theme Name of the plugin/theme
+msgid "Bento"
+msgstr "Bento"
+
+#. Theme URI of the plugin/theme
+msgid "http://satoristudio.net/bento-free-wordpress-theme"
+msgstr "http://satoristudio.net/bento-free-wordpress-theme"
+
+#. Author of the plugin/theme
+msgid "Satori Studio"
+msgstr "Satori Studio"
+
+#. Author URI of the plugin/theme
+msgid "http://satoristudio.net/"
+msgstr "http://satoristudio.net/"
+
+#~ msgid "Go to Theme Options"
+#~ msgstr "Перейти до налаштувань теми"
+
+#~ msgid "Page Meta Information"
+#~ msgstr "Meta дані"
+
+#~ msgid "Logo"
+#~ msgstr "Логотип"
+
+#~ msgid "Upload the image to be used as the logo of the website"
+#~ msgstr "Завантажте зображення для використання в якості логотипу."
+
+#~ msgid "Favicon"
+#~ msgstr "Фавікон"
+
+#~ msgid ""
+#~ "Set the website favicon - the small image displayed in the browser tab; "
+#~ "recommended size: 16x16 or 32x32."
+#~ msgstr ""
+#~ "Задати фавікон сайту - невелике зображення, що відображається на вкладці "
+#~ "браузера; рекомендований розмір: 16x16 або 32x32 пікселя."
+
+#~ msgid "4 (default)"
+#~ msgstr "4 (за замовчуванням)"
+
+#~ msgid "Primary Menu"
+#~ msgstr "Головне меню"
+
+#~ msgid "Mobile Menu"
+#~ msgstr "Мобільне меню"
+
+#~ msgid "Buttons and Inputs"
+#~ msgstr "Кнопки і поля введення"
+
+#~ msgid "Footer Widget Area"
+#~ msgstr "Область з віджетами в підвалі сайту"
+
+#~ msgid "Bottom Footer"
+#~ msgstr "Нижня частина підвалу сайту"
+
+#~ msgid "Home page meta title"
+#~ msgstr "Мета-заголовок домашньої сторінки"
+
+#~ msgid ""
+#~ "Input the meta title for front page, to be used by search engines as well "
+#~ "as browser tabs (recommended max length - 60 symbols); the site title "
+#~ "from Settings -> General admin section will be used by default if this "
+#~ "field is empty. "
+#~ msgstr ""
+#~ "Введіть мета-заголовок для домашньої сторінки сайту, який буде "
+#~ "використовуватися пошуковими системами, а також відображатися у вкладках "
+#~ "браузера (рекомендована максимальна довжина - 60 символів); якщо це поле "
+#~ "порожньо, за замовчуванням буде використовуватися заголовок сайту в "
+#~ "секції Налаштування --> Загальні."
+
+#~ msgid "Home page meta description"
+#~ msgstr "Мета-опис для домашньої сторінки"
+
+#~ msgid ""
+#~ "Input the meta description for front page, to be used by search engines "
+#~ "(recommended max length - 160 symbols); the tagline from Settings -> "
+#~ "General admin section will be used by default if this field is empty. "
+#~ msgstr ""
+#~ "Введіть мета-опис для домашньої сторінки сайту, яке буде "
+#~ "використовуватися пошуковими системами (рекомендована максимальна довжина "
+#~ "- 160 символів); якщо це поле порожньо, за замовчуванням буде "
+#~ "використовуватися гасло сайту в секції Налаштування --> Загальні."
+
+#~ msgid "Site name for meta title"
+#~ msgstr "Назва сайту для мета-заголовків"
+
+#~ msgid ""
+#~ "Input the name of the website or the brand name to be used after each "
+#~ "meta title (will not be used for the front page); if this field is empty, "
+#~ "the value will be sourced from the site title in the Settings -> General "
+#~ "admin menu section. "
+#~ msgstr ""
+#~ "Введіть назву вашого сайту чи бренду, яка буде додана до мета-заголовків "
+#~ "на всіх сторінках крім домашньої; якщо це поле порожньо, за замовчуванням "
+#~ "буде використовуватися заголовок сайту в секції Налаштування --> Загальні."
+
+#~ msgid "Separator for meta title"
+#~ msgstr "Розділовий символ для мета-заголовків"
+
+#~ msgid ""
+#~ "Input the separator to be used between the parts of the meta titles on "
+#~ "various pages; default is /. "
+#~ msgstr ""
+#~ "Введіть роздільник для використання між частинами мета-заголовка; "
+#~ "значення за замовчуванням - /."
+
+#~ msgid "Analytics code"
+#~ msgstr "Код аналітики"
+
+#~ msgid ""
+#~ "You can paste tracking snippets such as Google Analytics here. In case of "
+#~ "Google Analytics, please visit the \"Admin\" section in your GA account, "
+#~ "click on the \"Tracking Info --> Tracking Code\" in the middle column, "
+#~ "and copy the code snippet from the textarea."
+#~ msgstr ""
+#~ "Вставте код для відстеження відвідувань сторінки. У разі використання "
+#~ "коду Google Analytics відвідайте розділ «Адміністратор» у вашому "
+#~ "обліковому запису GA, натисніть на «Код відстеження --> Код відстеження» "
+#~ "в середній колонці і скопіюйте фрагмент коду з текстового поля."
+
+#~ msgid "Display call to action popup"
+#~ msgstr "Відображати спливаюче вікно спонукання до дії (call-to-action)"
+
+#~ msgid ""
+#~ "Choose where to display the call-to-action popup for converting your "
+#~ "website visitors. Use in moderation!"
+#~ msgstr ""
+#~ "Виберіть, де відображати спливаюче вікно із закликом до дії для кращої "
+#~ "конверсії відвідувачів Вашого сайту. Рекомендується використовувати з "
+#~ "почуттям міри!"
+
+#~ msgid "Do not display (default)"
+#~ msgstr "Не показувати (за замовчуванням)"
+
+#~ msgid "Show on all pages"
+#~ msgstr "Показувати на всіх сторінках"
+
+#~ msgid "Show only on front page"
+#~ msgstr "Показувати тільки на домашній сторінці"
+
+#~ msgid "Show only in blog"
+#~ msgstr "Показувати тільки в блозі"
+
+#~ msgid "Show only on particular page (set below)"
+#~ msgstr "Показувати тільки на певній сторінці (вказати нижче)"
+
+#~ msgid "Page on which to show the popup"
+#~ msgstr "Сторінка, на якій буде показуватися спливаюче вікно"
+
+#~ msgid "Select which page to display the popup on."
+#~ msgstr "Виберіть сторінку, на якій буде показуватися спливаюче вікно."
+
+#~ msgid "Popup trigger"
+#~ msgstr "Тригер для спливаючого вікна"
+
+#~ msgid ""
+#~ "Choose the trigger for the popup; the \"Time on page\" trigger will "
+#~ "display the popup after the visitor has spent a specified amount of time "
+#~ "on the page, while the \"About to leave\" trigger will display the popup "
+#~ "when the user moves the mouse outside the website window, indicating the "
+#~ "intention to leave the website. Default is \"Time on page\"."
+#~ msgstr ""
+#~ "Виберіть тригер для спливаючого вікна з закликом до дії; тригер «Час на "
+#~ "сторінці» буде відображати спливаюче вікно після того, як відвідувач "
+#~ "провів певну кількість часу на сторінці, в той час як тригер «При "
+#~ "догляді» буде відображати спливаюче вікно, коли користувач переміщує "
+#~ "курсор миші за межі вікна з веб-сайтом, даючи сигнал про намір покинути "
+#~ "сайт. Значення за замовчуванням - «Час на сторінці»."
+
+#~ msgid "Time on page (default)"
+#~ msgstr "Час на сторінці (за замовчуванням)"
+
+#~ msgid "About to leave"
+#~ msgstr "При виході"
+
+#~ msgid "Time on page to display the popup"
+#~ msgstr "Час на сторінці, поки не з'явиться спливаюче вікно"
+
+#~ msgid ""
+#~ "Input the time, in seconds, after which the visitor will see the popup; "
+#~ "default is 10 seconds."
+#~ msgstr ""
+#~ "Вкажіть час в секундах, після якого відвідувач буде бачити спливаюче "
+#~ "вікно; значення за замовчуванням - 10 секунд."
+
+#~ msgid "Source of content for the popup"
+#~ msgstr "Джерело вмісту для спливаючого вікна"
+
+#~ msgid ""
+#~ "Choose which page to use as a source of content for the popup; on the "
+#~ "page you can have any text, images, and other content as well as contact "
+#~ "forms, buttons and other elements generated by the Content Builder or any "
+#~ "other third-party plugins. "
+#~ msgstr ""
+#~ "Виберіть, яку сторінку використовувати як джерело вмісту для спливаючого "
+#~ "вікна; сторінка може містити будь-який текст, зображення та інші типи "
+#~ "контенту, а також контактні форми, кнопки та інші елементи, створені "
+#~ "Конструктором контенту (Content Builder) або будь-якими іншими сторонніми "
+#~ "плаґінами."
+
+#~ msgid "Width of the popup window"
+#~ msgstr "Ширина спливаючого вікна"
+
+#~ msgid "Input the width of the popup window, in pixels; default is 600."
+#~ msgstr ""
+#~ "Введіть ширину спливаючого вікна в пікселях; значення за замовчуванням - "
+#~ "600."
+
+#~ msgid "Popup border thickness"
+#~ msgstr "Товщина кордонів спливаючого вікна"
+
+#~ msgid "Set the border thickness of the popup box; default is 5 px."
+#~ msgstr ""
+#~ "Задайте товщину рамки спливаючого вікна; значення за замовчуванням - 5 "
+#~ "пікселів."
+
+#~ msgid "0 (no border)"
+#~ msgstr "0 (без рамки)"
+
+#~ msgid "5 px (default)"
+#~ msgstr "5 пікселів (за замовчуванням)"
+
+#~ msgid "Popup border color"
+#~ msgstr "Колір рамки спливаючого вікна"
+
+#~ msgid "Choose the color of the popup border; default is #999999 (grey)."
+#~ msgstr ""
+#~ "Виберіть колір рамки спливаючого вікна; значення за замовчуванням - "
+#~ "#999999 (сірий)."
+
+#~ msgid "Popup background overlay opacity"
+#~ msgstr "Ступінь прозорості фону навколо спливаючого вікна"
+
+#~ msgid ""
+#~ "Set the opacity of the shade that covers the rest of the page when the "
+#~ "popup appears; 0.0 means fully transparent and 1.0 means completely "
+#~ "opaque. Default is 0.2."
+#~ msgstr ""
+#~ "Встановіть прозорість фону, який буде покривати іншу частину сторінки, "
+#~ "коли з'являється спливаюче вікно; 0.0 означає повністю прозорий, 1.0 "
+#~ "означає повністю непрозорий. Значення за замовчуванням - 0.2."
+
+#~ msgid "0.2 (default)"
+#~ msgstr "0.2 (за замовчуванням)"
+
+#~ msgid "Popup background overlay color"
+#~ msgstr "Колір фону навколо спливаючого вікна"
+
+#~ msgid ""
+#~ "Choose the color of the shade that covers the rest of the page when the "
+#~ "popup appears; default is #000000 (black)."
+#~ msgstr ""
+#~ "Встановіть колір фону, який буде покривати іншу частину сторінки, коли "
+#~ "з'являється спливаюче вікно; значення за замовчуванням - #000000 (чорний)."
+
+#~ msgid "Display loading screen"
+#~ msgstr "Показувати екран завантаження"
+
+#~ msgid "Check this option to show an animation while a page is loading."
+#~ msgstr ""
+#~ "Встановіть цю опцію, щоб показувати анімацію під час завантаження "
+#~ "сторінки."
+
+#~ msgid "Preloader spinner color"
+#~ msgstr "Колір анімації на екрані завантаження"
+
+#~ msgid ""
+#~ "Choose the color of the loading animation; default is #999999 (grey)."
+#~ msgstr ""
+#~ "Виберіть колір анімації на екрані завантаження; значення за замовчуванням "
+#~ "- #999999 (сірий)."
+
+#~ msgid "Preloader background color"
+#~ msgstr "Колір фону екрану завантаження"
+
+#~ msgid ""
+#~ "Choose the backround color of the loading screen; default is #ffffff "
+#~ "(white)."
+#~ msgstr ""
+#~ "Вибрати колір фону екрану завантаження; значення за замовчуванням - "
+#~ "#ffffff (білий)."
+
+#~ msgid "Theme Options"
+#~ msgstr "Налаштування шаблону"
+
+#~ msgid "Save Changes"
+#~ msgstr "Зберегти зміни"
+
+#~ msgid ""
+#~ "Learn about setting up and customizing Bento, report bugs and request "
+#~ "features"
+#~ msgstr ""
+#~ "Дізнайтеся більше про можливості і опціях Bento, повідомте про помилку "
+#~ "або запитати нові функції"
+
+#~ msgid "Contact support"
+#~ msgstr "Зв'язатися з підтримкою"
+
+#~ msgid "Please leave a rating if you enjoyed using Bento. Thanks!"
+#~ msgstr "Будь ласка поставте оцінку якщо Вам сподобався Bento. Дякуємо!"
+
+#~ msgid "Rate the theme"
+#~ msgstr "Дати оцінку темі"
+
+#~ msgid "Keep up with updates, new features and freebies"
+#~ msgstr ""
+#~ "Залишайтеся в курсі оновлень, нового функціоналу і спеціальних пропозицій"
+
+#~ msgid "Upload"
+#~ msgstr "Завантажити"
